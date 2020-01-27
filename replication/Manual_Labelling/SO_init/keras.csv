@@ -1,0 +1,1001 @@
+Link,Title
+https://stackoverflow.com/questions/34716454,Where do I call the BatchNormalization function in Keras?
+https://stackoverflow.com/questions/42081257,Keras binary_crossentropy vs categorical_crossentropy performance?
+https://stackoverflow.com/questions/41563720,"Error when checking model input: expected convolution2d_input_1 to have 4 dimensions, but got array with shape (32, 32, 3)"
+https://stackoverflow.com/questions/44747343,"Keras input explanation: input_shape, units, batch_size, dim, etc"
+https://stackoverflow.com/questions/35905264,Keras: ImportError: No module named data_utils
+https://stackoverflow.com/questions/37213388,Keras accuracy does not change
+https://stackoverflow.com/questions/37232782,NaN loss when training regression network
+https://stackoverflow.com/questions/47266383,Save and load weights in keras
+https://stackoverflow.com/questions/38714959,Understanding Keras LSTMs
+https://stackoverflow.com/questions/43396572,Dimension of shape in conv1D
+https://stackoverflow.com/questions/43833081,AttributeError: 'module' object has no attribute 'computation'
+https://stackoverflow.com/questions/43818584,Custom loss function in Keras
+https://stackoverflow.com/questions/47902295,What is the use of verbose in Keras while validating the model?
+https://stackoverflow.com/questions/43457862,What's the difference between samples_per_epoch and steps_per_epoch in fit_generator
+https://stackoverflow.com/questions/43034960,Many to one and many to many LSTM examples in Keras
+https://stackoverflow.com/questions/41908379,"Keras - Plot training, validation and test set accuracy"
+https://stackoverflow.com/questions/45084467,Keras: TypeError: __call__() got an unexpected keyword argument 'name'
+https://stackoverflow.com/questions/44704435,"Error when checking model input: expected lstm_1_input to have 3 dimensions, but got array with shape (339732, 29)"
+https://stackoverflow.com/questions/44495698,Keras: Difference between Kernel and Activity regularizers
+https://stackoverflow.com/questions/36986815,What is the parameter max_q_size used for in model.fit_generator?
+https://stackoverflow.com/questions/37973005,What do model.predict() and model.fit() do?
+https://stackoverflow.com/questions/43728235,What is the difference between Keras' MaxPooling1D and GlobalMaxPooling1D functions?
+https://stackoverflow.com/questions/47555829,preprocess_input() method in keras
+https://stackoverflow.com/questions/41174995,Import theano gives the AttributeError: module 'theano' has no attribute 'gof'
+https://stackoverflow.com/questions/39674713,Neural Network LSTM input shape from dataframe
+https://stackoverflow.com/questions/43855162,RMSE/ RMSLE loss function in Keras
+https://stackoverflow.com/questions/44036971,Multiple outputs in Keras
+https://stackoverflow.com/questions/46308374,What is validation data used for in a Keras Sequential model?
+https://stackoverflow.com/questions/42947295,Keras | TypeError: __init__() missing 1 required positional argument: 'nb_col'
+https://stackoverflow.com/questions/44583254,"ValueError: Input 0 is incompatible with layer lstm_13: expected ndim=3, found ndim=4"
+https://stackoverflow.com/questions/43035827,What's the difference between a bidirectional LSTM and an LSTM?
+https://stackoverflow.com/questions/34673396,What does the standard Keras model output mean? What is epoch and loss in Keras?
+https://stackoverflow.com/questions/43511819,ImportError: No module named 'keras.utils.visualize_util'
+https://stackoverflow.com/questions/43235531,Convolutional neural network Conv1d input shape
+https://stackoverflow.com/questions/43481490,Keras: class weights (class_weight) for one-hot encoding
+https://stackoverflow.com/questions/43306323,Keras Conv2D and input channels
+https://stackoverflow.com/questions/40496069,Reset weights in Keras layer
+https://stackoverflow.com/questions/44054082,keras.utils.to_categorical() - name keras not defined
+https://stackoverflow.com/questions/43876770,Pandas DataFrame and Keras
+https://stackoverflow.com/questions/46883606,what is the default kernel_initializer in keras
+https://stackoverflow.com/questions/42943291,What does Keras.io.preprocessing.sequence.pad_sequences do?
+https://stackoverflow.com/questions/42815131,Keras for implement convolution neural network
+https://stackoverflow.com/questions/39561560,Getting gradient of model output w.r.t weights using Keras
+https://stackoverflow.com/questions/44477489,Keras - Difference between categorical_accuracy and sparse_categorical_accuracy
+https://stackoverflow.com/questions/44924690,Keras: the difference between LSTM dropout and LSTM recurrent dropout
+https://stackoverflow.com/questions/38155836,Data Augmentation Image Data Generator Keras Semantic Segmentation
+https://stackoverflow.com/questions/41884001,Keras Classification - Object Detection
+https://stackoverflow.com/questions/47305618,What is the role of TimeDistributed layer in Keras?
+https://stackoverflow.com/questions/42260265,Resizing an input image in a Keras Lambda layer
+https://stackoverflow.com/questions/37377487,nvcc fatal : Cannot find compiler 'cl.exe' in PATH although Visual Studio 12.0 is added to PATH
+https://stackoverflow.com/questions/37179332,Error in keras - name 'Dense' is not defined
+https://stackoverflow.com/questions/41859997,Keras model load_weights for Neural Net
+https://stackoverflow.com/questions/46503816,Keras conv1d layer parameters: filters and kernel_size
+https://stackoverflow.com/questions/33474424,Keras load weights of a neural network / error when predicting
+https://stackoverflow.com/questions/44184834,Value error: Input arrays should have the same number of samples as target arrays. Found 1600 input samples and 6400 target samples
+https://stackoverflow.com/questions/43017017,Keras: model.predict for a single image
+https://stackoverflow.com/questions/38656566,input dimensions to a one dimensional convolutional network in keras
+https://stackoverflow.com/questions/45799474,Keras: model.evaluate vs model.predict accuracy difference in multi-class NLP task
+https://stackoverflow.com/questions/44172165,Keras multiple output: Custom loss function
+https://stackoverflow.com/questions/43086584,TypeError: 'float' object cannot be interpreted as an index
+https://stackoverflow.com/questions/45943675,Meaning of validation_steps in Keras Sequential fit_generator parameter list
+https://stackoverflow.com/questions/43765381,Anyone some API about the keras.layers.Input
+https://stackoverflow.com/questions/39950311,keras error on predict
+https://stackoverflow.com/questions/43702481,Why does Keras LSTM batch size used for prediction have to be the same as fitting batch size?
+https://stackoverflow.com/questions/41665799,Keras model.summary() object to string
+https://stackoverflow.com/questions/44907377,What is epoch in keras.models.Model.fit?
+https://stackoverflow.com/questions/45482209,Input shape and Conv1d in Keras
+https://stackoverflow.com/questions/44806125,AttributeError: 'Model' object has no attribute 'predict_classes'
+https://stackoverflow.com/questions/39376169,Keras Convolution2D Input: Error when checking model input: expected convolution2d_input_1 to have shape
+https://stackoverflow.com/questions/43386463,Keras VGG16 fine tuning
+https://stackoverflow.com/questions/44151760,"Received a label value of 1 which is outside the valid range of [0, 1) - Python, Keras"
+https://stackoverflow.com/questions/43882796,When does keras reset an LSTM state?
+https://stackoverflow.com/questions/35431460,Import keras.datasets not working
+https://stackoverflow.com/questions/42596057,Keras error : Expected to see 1 array
+https://stackoverflow.com/questions/48508036,"Sklearn StratifiedKFold: ValueError: Supported target types are: ('binary', 'multiclass'). Got 'multilabel-indicator' instead"
+https://stackoverflow.com/questions/41758385,Resizing images in Keras ImageDataGenerator flow methods
+https://stackoverflow.com/questions/45979848,Merge 2 sequential models in Keras
+https://stackoverflow.com/questions/42950705,ValueError: Can't handle mix of multilabel-indicator and binary
+https://stackoverflow.com/questions/45735070,Keras Text Preprocessing - Saving Tokenizer object to file for scoring
+https://stackoverflow.com/questions/41823068,Train multi-class image classifier in Keras
+https://stackoverflow.com/questions/39263002,Calling fit multiple times in Keras
+https://stackoverflow.com/questions/35968973,Keras IndexError: indices are out-of-bounds
+https://stackoverflow.com/questions/44765376,ValueError «You are trying to use the old GPU back-end» when importing keras
+https://stackoverflow.com/questions/43488194,Get order of class labels for Keras predict function
+https://stackoverflow.com/questions/43452441,Keras - All layer names should be unique
+https://stackoverflow.com/questions/37911321,Why does prediction needs batch size in Keras?
+https://stackoverflow.com/questions/49100556,What is the use of train_on_batch() in keras?
+https://stackoverflow.com/questions/49113140,ImportError: cannot import name '_obtain_input_shape' from keras
+https://stackoverflow.com/questions/50776598,TypeError: softmax() got an unexpected keyword argument 'axis'
+https://stackoverflow.com/questions/37428100,Confusion between Binary_crossentropy and Categorical_crossentropy
+https://stackoverflow.com/questions/36875911,Python/Keras - accessing ModelCheckpoint callback
+https://stackoverflow.com/questions/40244101,Implement word2vec in Keras
+https://stackoverflow.com/questions/39779710,Setting up a LearningRateScheduler in Keras
+https://stackoverflow.com/questions/42633644,Using Keras for video prediction (time series)
+https://stackoverflow.com/questions/51031519,can't import keras.layers.Merge
+https://stackoverflow.com/questions/41903928,Add a resizing layer to a keras sequential model
+https://stackoverflow.com/questions/41327601,Why is binary_crossentropy more accurate than categorical_crossentropy for multiclass classification in Keras?
+https://stackoverflow.com/questions/50920908,Get Confusion Matrix From a Keras Multiclass Model
+https://stackoverflow.com/questions/41648129,balancing an imbalanced dataset with keras image generator
+https://stackoverflow.com/questions/42384602,Implementing skip connections in keras
+https://stackoverflow.com/questions/31997366,Python: keras shape mismatch error
+https://stackoverflow.com/questions/41340461,Can I implement deep learning models in my laptop with intel hd graphics
+https://stackoverflow.com/questions/42118821,Cross Entropy Loss for Semantic Segmentation Keras
+https://stackoverflow.com/questions/34193649,Multiplying the output of two layers in keras
+https://stackoverflow.com/questions/41716380,"Keras, output of model predict_proba"
+https://stackoverflow.com/questions/43509881,Keras: Exception: Received unknown keyword arguments: {'epochs': 100}
+https://stackoverflow.com/questions/37088571,Keras loading color images
+https://stackoverflow.com/questions/38313673,LSTM with Keras for mini-batch training and online testing
+https://stackoverflow.com/questions/47416861,Backward propagation in Keras?
+https://stackoverflow.com/questions/46127625,Need To Compile Keras Model Before `model.evaluate()`
+https://stackoverflow.com/questions/47057361,Keras using Tensorflow backend-- masking on loss function
+https://stackoverflow.com/questions/42264649,Keras: Binary_crossentropy has negative values
+https://stackoverflow.com/questions/38584268,Implementing a Siamese NN in Keras
+https://stackoverflow.com/questions/46269642,batch_size = x.shape[0] AttributeError: 'tuple' object has no attribute 'shape'
+https://stackoverflow.com/questions/40690203,the alternative to from keras.datasets import mnist
+https://stackoverflow.com/questions/41484580,GridSearch with Keras Neural Networks
+https://stackoverflow.com/questions/43501022,Keras - monitoring quantities with TensorBoard during training
+https://stackoverflow.com/questions/44627977,Keras Multi-inputs AttributeError: 'NoneType' object has no attribute 'inbound_nodes'
+https://stackoverflow.com/questions/47200146,Keras: load images batch wise for large dataset
+https://stackoverflow.com/questions/44622857,Why am i getting AttributeError: 'KerasClassifier' object has no attribute 'model'?
+https://stackoverflow.com/questions/44972453,Text classification with LSTM Network and Keras
+https://stackoverflow.com/questions/40220683,Keras: reshape to connect lstm and conv
+https://stackoverflow.com/questions/42398645,TimeDistributed vs. TimeDistributedDense Keras
+https://stackoverflow.com/questions/42821330,Restore original text from Keras’s imdb dataset
+https://stackoverflow.com/questions/46009619,Keras: weighted binary crossentropy
+https://stackoverflow.com/questions/47157526,"ResNet: 100% accuracy during training, but 33% prediction accuracy with the same data"
+https://stackoverflow.com/questions/41764041,Fine tuning pretrained model in keras
+https://stackoverflow.com/questions/45793856,Binary classification with Softmax
+https://stackoverflow.com/questions/44972565,What is the difference between the predict and predict_on_batch methods of a Keras model?
+https://stackoverflow.com/questions/34670271,Deep Convolutional Neural Network in Keras
+https://stackoverflow.com/questions/43336274,Removing dimension using reshape in keras?
+https://stackoverflow.com/questions/42945509,Keras input shape ValueError
+https://stackoverflow.com/questions/43813393,Keras flow_from_directory class index
+https://stackoverflow.com/questions/39018767,Deconvolution2D layer in keras
+https://stackoverflow.com/questions/48674881,"Keras: Expected 3 dimensions, but got array with shape - dense model"
+https://stackoverflow.com/questions/47186880,Convert image to array for CNN
+https://stackoverflow.com/questions/47422817,Keras: ImportError: `save_model` requires h5py even thought the code already imported h5py
+https://stackoverflow.com/questions/39646921,from keras.layers import Dense -- cannot import name 'Dense'
+https://stackoverflow.com/questions/36428323,LSTM Followed by Mean Pooling
+https://stackoverflow.com/questions/50830736,"TypeError: ('Keyword argument not understood:', 'data_format')"
+https://stackoverflow.com/questions/44720822,ValueError with Concatenate Layer (Keras functional API)
+https://stackoverflow.com/questions/46836358,Keras RGB to Grayscale
+https://stackoverflow.com/questions/41816439,loss function in LSTM neural network
+https://stackoverflow.com/questions/33014480,keras example Type Error
+https://stackoverflow.com/questions/38294046,Simple Recurrent Neural Network input shape
+https://stackoverflow.com/questions/39467496,error when using keras' sk-learn API
+https://stackoverflow.com/questions/47272383,Keras: Training loss decrases (accuracy increase) while validation loss increases (accuracy decrease)
+https://stackoverflow.com/questions/43345909,"When using mectrics in model.compile in keras, report ValueError: ('Unknown metric function', ':f1score')"
+https://stackoverflow.com/questions/51299836,What values are returned from model.evaluate() in Keras?
+https://stackoverflow.com/questions/46541974,keras - TypeError: 'int' object is not iterable
+https://stackoverflow.com/questions/46443566,Keras LSTM multiclass classification
+https://stackoverflow.com/questions/40850089,Is Keras thread safe?
+https://stackoverflow.com/questions/44931347,Keras: Lambda layer function with multiple parameters
+https://stackoverflow.com/questions/44394056,Deep Learning Multi-Input CNN
+https://stackoverflow.com/questions/36392966,Keras CNN images and kernel size mismatch even after image transformation to fit
+https://stackoverflow.com/questions/47490393,getting ValueError :Can only tuple-index with a MultiIndex
+https://stackoverflow.com/questions/40036748,Keras backend - ImportError: cannot import name ctc_ops
+https://stackoverflow.com/questions/45030966,AttributeError:'Tensor' object has no attribute '_keras_history'
+https://stackoverflow.com/questions/41174546,Keras Data Augmentation Parameters
+https://stackoverflow.com/questions/48309322,Keras Multiply() layer in functional API
+https://stackoverflow.com/questions/45970888,What does kernel_constraint=max_norm(3) do?
+https://stackoverflow.com/questions/41260042,Global Weight Decay in Keras
+https://stackoverflow.com/questions/47414651,Difference between Conv2D and Convolution2D in Keras
+https://stackoverflow.com/questions/45939307,Unable to import Keras in Jupyter
+https://stackoverflow.com/questions/36556868,TypeError: 'numpy.float64' object is not iterable Keras
+https://stackoverflow.com/questions/41947039,Keras RNN with LSTM cells for predicting multiple output time series based on multiple intput time series
+https://stackoverflow.com/questions/39309388,Keras RNN loss does not decrease over epoch
+https://stackoverflow.com/questions/35757151,Why does this Keras model require over 6GB of memory?
+https://stackoverflow.com/questions/45289892,PicklingError: Can't pickle <class 'module'>: attribute lookup module on builtins failed
+https://stackoverflow.com/questions/44788946,Shuffling training data with LSTM RNN
+https://stackoverflow.com/questions/46253744,"Getting error,AttributeError: 'module' object has no attribute 'ifelse'"
+https://stackoverflow.com/questions/44616841,What does it mean when train and validation loss diverge from epoch 1?
+https://stackoverflow.com/questions/42475381,Add dropout layers between pretrained dense layers in keras
+https://stackoverflow.com/questions/36356004,Continue Training from a Specific Epoch
+https://stackoverflow.com/questions/44686930,Bidirectional LSTM with Batch Normalization in Keras
+https://stackoverflow.com/questions/43871575,Matrix multiplication in Keras
+https://stackoverflow.com/questions/38684768,Customize Keras' loss function in a way that the y_true will depend on y_pred
+https://stackoverflow.com/questions/36133662,epoch vs. iteration in recurrent neural networks
+https://stackoverflow.com/questions/45135551,Validation accuracy is always greater than training accuracy in Keras
+https://stackoverflow.com/questions/47671732,Keras - Input a 3 channel image into LSTM
+https://stackoverflow.com/questions/41602258,Tokenizer error in Keras pipeline
+https://stackoverflow.com/questions/41903051,Change input tensor shape for VGG16 application
+https://stackoverflow.com/questions/41603357,model ensemble with shared layers
+https://stackoverflow.com/questions/48794214,"expected input to have 4 dimensions, but got array with shape"
+https://stackoverflow.com/questions/45755022,Cannot add layers to saved Keras Model. 'Model' object has no attribute 'add'
+https://stackoverflow.com/questions/47498229,StopIteration: Could not import PIL.Image. The use of `array_to_img` requires PIL
+https://stackoverflow.com/questions/48775305,What function defines accuracy in Keras when the loss is mean squared error (MSE)?
+https://stackoverflow.com/questions/42297359,TypeError: Output tensors to a Model must be Keras tensors
+https://stackoverflow.com/questions/43178668,record the computation time for each epoch in Keras during model.fit()
+https://stackoverflow.com/questions/46853293,Learning Keras model by using Distributed Tensorflow
+https://stackoverflow.com/questions/47928347,value of steps per epoch passed to keras fit generator function
+https://stackoverflow.com/questions/44341258,Preprocessing function of inception v3 in Keras
+https://stackoverflow.com/questions/41792188,What does `layer.get_weights()` return?
+https://stackoverflow.com/questions/45309153,Structure a Keras Tensorboard graph
+https://stackoverflow.com/questions/45265436,Keras - Save image embedding of the mnist data set
+https://stackoverflow.com/questions/45631235,ImportError: cannot import name TimeDistributedDense in Keras
+https://stackoverflow.com/questions/46495215,What is the difference between x_train and x_test in Keras?
+https://stackoverflow.com/questions/46314003,Keras 2 fit_generator UserWarning: `steps_per_epoch` is not the same as the Keras 1 argument `samples_per_epoch`
+https://stackoverflow.com/questions/44586333,Understanding Character Level Embedding in Keras LSTM
+https://stackoverflow.com/questions/44998137,"expected dense_3 to have shape (None, 2)"
+https://stackoverflow.com/questions/46965047,Channels first with Keras?
+https://stackoverflow.com/questions/42553169,CNN-LSTM in Keras: Dimension Error
+https://stackoverflow.com/questions/42353056,Keras Masking for RNN with Varying Time Steps
+https://stackoverflow.com/questions/46102332,LSTM Keras API predicting multiple outputs
+https://stackoverflow.com/questions/41646447,Keras multiply layer output with scalar
+https://stackoverflow.com/questions/44611006,TimeDistributed(Dense) vs Dense in Keras - Same number of parameters
+https://stackoverflow.com/questions/43544358,Categorical crossentropy need to use categorical_accuracy or accuracy as the metrics in keras?
+https://stackoverflow.com/questions/42379138,Keras: ValueError: No data provided for input_1. Need data for each key
+https://stackoverflow.com/questions/45245396,Can I share weights between keras layers but have other parameters differ?
+https://stackoverflow.com/questions/37625272,"Keras BatchNormalization, What exactly is sample wise normalization?"
+https://stackoverflow.com/questions/37798410,Why does this python generator have no output according to keras?
+https://stackoverflow.com/questions/40866124,Difference between Dense and Activation layer in Keras
+https://stackoverflow.com/questions/41958566,Pruning in Keras
+https://stackoverflow.com/questions/50063613,add_loss function in keras
+https://stackoverflow.com/questions/46354281,Audio classification with Keras: presence of human voice
+https://stackoverflow.com/questions/40888127,Keras model.compile: metrics to be evaluated by the model
+https://stackoverflow.com/questions/38891390,Keras: LSTM with class weights
+https://stackoverflow.com/questions/44861149,Keras: use Tensorboard with train_on_batch()
+https://stackoverflow.com/questions/37091751,Keras learning rate not changing despite decay in SGD
+https://stackoverflow.com/questions/47538391,keras BatchNormalization axis clarification
+https://stackoverflow.com/questions/47380663,Numpy reverse keras to_categorical
+https://stackoverflow.com/questions/45582157,Mobilenet for keras
+https://stackoverflow.com/questions/45046525,Keras: Number of trainable parameters in model
+https://stackoverflow.com/questions/46572674,Keras Sequential model input layer
+https://stackoverflow.com/questions/30384908,Python keras neural network (Theano) package returns an error about data dimensions
+https://stackoverflow.com/questions/45499757,"Expected shape (None, 8) but got array with shape (8,1)"
+https://stackoverflow.com/questions/37596597,errors when dowloading mnist dataset using keras
+https://stackoverflow.com/questions/49785536,Get learning rate of keras model
+https://stackoverflow.com/questions/42660871,changing keras backend to Theano in Ipython Notebook
+https://stackoverflow.com/questions/41292038,In Keras what is the difference between weight_regularizer and activity_ regularizer
+https://stackoverflow.com/questions/40854232,keras/scikit-learn: using fit_generator() with cross validation
+https://stackoverflow.com/questions/42855033,Input LSTM on multivariate time series
+https://stackoverflow.com/questions/41749398,Using Keras ImageDataGenerator in a regression model
+https://stackoverflow.com/questions/42154792,Keras Custom Layer 2D input -> 2D output
+https://stackoverflow.com/questions/42025546,Keras: network doesn't train with fit_generator()
+https://stackoverflow.com/questions/48987959,classification metrics can't handle a mix of continuous-multioutput and multi-label-indicator targets
+https://stackoverflow.com/questions/35214262,Convolutional2D Siamese Network in Keras
+https://stackoverflow.com/questions/44873387,Varying sequence length in Keras without padding
+https://stackoverflow.com/questions/37503270,Keras error with merge layer
+https://stackoverflow.com/questions/44845627,Re-scaling outputs from a Keras model back to original scale
+https://stackoverflow.com/questions/47474869,Getting a list of all known classes of vgg-16 in keras
+https://stackoverflow.com/questions/48187283,What's the difference between LSTM() and LSTMCell()?
+https://stackoverflow.com/questions/41847376,Keras model.to_json() error: 'rawunicodeescape' codec can't decode bytes in position 94-98: truncated \uXXXX
+https://stackoverflow.com/questions/34898247,Theano - Keras - No Module named `pool`
+https://stackoverflow.com/questions/45642905,Use hidden states instead of outputs in LSTMs of keras
+https://stackoverflow.com/questions/42822486,Keras model fit_generator odd error
+https://stackoverflow.com/questions/52553593,Tensorflow——keras model.save() raise NotImplementedError
+https://stackoverflow.com/questions/43556979,"TypeError: 'Keyword argument not understood:', 'padding'"
+https://stackoverflow.com/questions/42047497,Keras: Out of memory when doing hyper parameter grid search
+https://stackoverflow.com/questions/47678108,keras: Use one model output as another model input
+https://stackoverflow.com/questions/39298462,Keras stateful LSTM error
+https://stackoverflow.com/questions/41910617,Keras: ValueError: decode_predictions expects a batch of predictions
+https://stackoverflow.com/questions/42128605,Keras classifier predict_proba() doesn't match predict()
+https://stackoverflow.com/questions/42714688,Add dense layer before LSTM layer in keras or Tensorflow?
+https://stackoverflow.com/questions/48641192,Xavier and he_normal initialization difference
+https://stackoverflow.com/questions/48226783,What is the the difference between performing upsampling together with strided transpose convolution and transpose convolution with stride 1 only?
+https://stackoverflow.com/questions/48842303,Issue with plot_model in keras and pydot
+https://stackoverflow.com/questions/45537834,keras reshape input image to work with CNN
+https://stackoverflow.com/questions/43314810,"ValueError: Error when checking model target: expected activation_2 to have shape (None, 761, 1) but got array with shape (1, 779, 1)"
+https://stackoverflow.com/questions/36895627,Python/Keras - Creating a callback with one prediction for each epoch
+https://stackoverflow.com/questions/43011070,Keras: concatenating model flattened output with vector
+https://stackoverflow.com/questions/43576922,Keras custom metric iteration
+https://stackoverflow.com/questions/48036485,ImageDataGenerator is not defined
+https://stackoverflow.com/questions/37793144,Specifying Dense using keras library
+https://stackoverflow.com/questions/47168616,Is there a momentum option for Adam optimizer in Keras?
+https://stackoverflow.com/questions/37747886,Keras fitting ignoring nan values
+https://stackoverflow.com/questions/41255268,Keras LSTM input dimensions with one hot text embedding
+https://stackoverflow.com/questions/43150635,Combining the outputs of multiple models into one model
+https://stackoverflow.com/questions/46706781,python shape too large to be a matrix
+https://stackoverflow.com/questions/48491737,Understanding Keras LSTMs: Role of Batch-size and Statefulness
+https://stackoverflow.com/questions/44573784,Keras Neural Network Error: Setting an Array Element with a Sequence
+https://stackoverflow.com/questions/47243903,Keras - negative loss and val_loss during training
+https://stackoverflow.com/questions/40437554,Where is default location of Keras in Ubuntu OS
+https://stackoverflow.com/questions/50825936,Confusion matrix on images in CNN keras
+https://stackoverflow.com/questions/45537372,AttributeError: 'History' object has no attribute 'predict' - Fitting a List of train and test data
+https://stackoverflow.com/questions/48265926,Keras: find out the number of layers
+https://stackoverflow.com/questions/36293208,Keras: 2D input -> 2D output?
+https://stackoverflow.com/questions/43390162,Class weights in binary classification model with Keras
+https://stackoverflow.com/questions/41815354,keras flow_from_directory over or undersample a class
+https://stackoverflow.com/questions/36241731,"Python/Keras - Wrong number of dimensions: expected 3, got 2 with shape (119, 80)"
+https://stackoverflow.com/questions/44330249,Keras - using activation function with a parameter
+https://stackoverflow.com/questions/45479239,Pandas - KeyError: '[] not in index' when training a Keras model
+https://stackoverflow.com/questions/46573036,Extracting last layers of keras model as a submodel
+https://stackoverflow.com/questions/46705600,Keras: Fit Image augmentations to training data using flow_from_directory
+https://stackoverflow.com/questions/46119435,Keras LSTM - why different results with same model & same weights?
+https://stackoverflow.com/questions/43382045,Keras Realtime Augmentation adding Noise and Contrast
+https://stackoverflow.com/questions/49017331,Keras - .flow_from_directory(directory)
+https://stackoverflow.com/questions/42611316,"Keras - Pop and re-add layers, but layer does not disconnect"
+https://stackoverflow.com/questions/50079585,"CNN with keras, accuracy not improving"
+https://stackoverflow.com/questions/36805640,This error while downloading datasets: ValueError: I/O operation on closed file
+https://stackoverflow.com/questions/46036522,Defining model in keras (include_top = True)
+https://stackoverflow.com/questions/35831803,Highway networks in keras and lasagne - significant perfomance difference
+https://stackoverflow.com/questions/45021558,Determining number of epochs for model fitting in Keras
+https://stackoverflow.com/questions/47665072,"ValueError: Error when checking input: expected dense_1_input to have shape (None, None, 9000) but got array with shape (9000, 1, 4)"
+https://stackoverflow.com/questions/50906123,NameError: name 'image' is not defined
+https://stackoverflow.com/questions/49295311,what is the difference between Flatten() and GlobalAveragePooling2D() in keras
+https://stackoverflow.com/questions/34739151,Calculate dimension of feature maps in convolutional neural network
+https://stackoverflow.com/questions/47868265,What is the difference between an Embedding Layer and a Dense Layer?
+https://stackoverflow.com/questions/43091358,Conv1D on 2D input
+https://stackoverflow.com/questions/44716415,Approximating sine function with Neural Network and ReLU (Keras)
+https://stackoverflow.com/questions/50027279,Confusion Matrix in Keras+Tensorflow
+https://stackoverflow.com/questions/42514960,Keras autoencoder
+https://stackoverflow.com/questions/43899248,Keras model ValueError: Error when checking model target:
+https://stackoverflow.com/questions/47626254,Changing optimizer in keras during training
+https://stackoverflow.com/questions/42323035,Assertion Error in keras
+https://stackoverflow.com/questions/37259515,Why pretraining for DNN is not specified in keras?
+https://stackoverflow.com/questions/33536182,Testing the Keras sentiment classification with model.predict
+https://stackoverflow.com/questions/42333163,Keras: NaN Training Loss After Introducing Batch Normalization
+https://stackoverflow.com/questions/43531434,Cannot import keras.initializers
+https://stackoverflow.com/questions/40387335,Padding of size greater than 1 in keras
+https://stackoverflow.com/questions/47494896,What is the meaning of rank 4 of data In the flow method of ImageDataGenerator (Keras) which has argument x
+https://stackoverflow.com/questions/48127550,Early stopping with Keras and sklearn GridSearchCV cross-validation
+https://stackoverflow.com/questions/46155868,Keras- Embedding layer
+https://stackoverflow.com/questions/49027174,what doesnshuffle do in fit_generator in keras?
+https://stackoverflow.com/questions/51003027,Computing cosine similarity between two tensors in Keras
+https://stackoverflow.com/questions/47302085,What is metrics in Keras?
+https://stackoverflow.com/questions/47889999,"expected convolution2d_input_1 to have 4 dimensions, but got array with shape (150, 150, 1)"
+https://stackoverflow.com/questions/49550182,Keras rename model and layers
+https://stackoverflow.com/questions/45722259,keras autoencoder vs PCA
+https://stackoverflow.com/questions/47149675,Keras lambda layer for l2 norm
+https://stackoverflow.com/questions/42492824,Can I send callbacks to a KerasClassifier?
+https://stackoverflow.com/questions/36824968,"Keras - Train convolution network, get auto-encoder output"
+https://stackoverflow.com/questions/46293734,MemoryError in keras.utils.np_utils.to_categorical
+https://stackoverflow.com/questions/47324571,Keras: ValueError: Negative dimension size caused by subtracting 5 from 1
+https://stackoverflow.com/questions/46141223,OSError unable to create file - invalid argument
+https://stackoverflow.com/questions/41589126,What is the replace for softmax layer in case more than one output can be activated?
+https://stackoverflow.com/questions/45086879,Why do Keras Conv1D layers' output tensors not have the input dimension?
+https://stackoverflow.com/questions/42705400,Why does my CIFAR 100 CNN model mainly predict two classes?
+https://stackoverflow.com/questions/43723337,Multi dimensional input for LSTM in Keras
+https://stackoverflow.com/questions/43037258,slice/split a layer in keras as in caffe
+https://stackoverflow.com/questions/36094601,Keras: CuDNN not available?
+https://stackoverflow.com/questions/40715953,Having trouble with save_to_dir in Keras ImageDataGenerator flow method
+https://stackoverflow.com/questions/44960558,Concatenating embedded inputs to feed recurrent LSTM in keras
+https://stackoverflow.com/questions/44998910,Keras model to fit polynomial
+https://stackoverflow.com/questions/45435049,"LSTM: Understand timesteps, samples and features and especially the use in reshape and input_shape"
+https://stackoverflow.com/questions/45183213,Coverting Back One Hot Encoded Results back to single Column in Python
+https://stackoverflow.com/questions/46977854,The best loss function for pixelwise binary classification in keras
+https://stackoverflow.com/questions/45123263,Is it possible to have non-trainable layer in Keras?
+https://stackoverflow.com/questions/46375035,Keras TypeError: fit() missing 1 required positional argument: 'y'
+https://stackoverflow.com/questions/40646529,Multi-dimensional input layers in Keras
+https://stackoverflow.com/questions/49670832,Keras lstm with masking layer for variable-length inputs
+https://stackoverflow.com/questions/42586475,Is it possible to automatically infer the class_weight from flow_from_directory in Keras?
+https://stackoverflow.com/questions/37100820,What do Keras convolution layers do with color channels?
+https://stackoverflow.com/questions/43816718,Keras Regression using Scikit Learn StandardScaler with Pipeline and without Pipeline
+https://stackoverflow.com/questions/48615003,Multi task learning in Keras
+https://stackoverflow.com/questions/46123306,"Error when checking model target: expected dense_39 to have 3 dimensions, but got array with shape (940, 1)"
+https://stackoverflow.com/questions/42602773,keras functional api and multiple merge layers
+https://stackoverflow.com/questions/48709839,StopIteration: generator_output = next(output_generator)
+https://stackoverflow.com/questions/44919776,TypeError: __init__() missing 1 required positional argument: 'output_size'
+https://stackoverflow.com/questions/47216529,very low accuracy in Neural networks using keras and validation accuracy 0.0000e+00
+https://stackoverflow.com/questions/49969006,save and load keras.callbacks.History
+https://stackoverflow.com/questions/47382952,Can't get past first epoch -- just hangs [Keras Transfer Learning Inception]
+https://stackoverflow.com/questions/45028582,Keras EarlyStopping patience parameter
+https://stackoverflow.com/questions/46188027,Ensemble of CNN and RNN model in keras
+https://stackoverflow.com/questions/46999519,Keras model.fit UnboundLocalError
+https://stackoverflow.com/questions/43299274,Computing cosine_proximity loss between two outputs of the network
+https://stackoverflow.com/questions/38787714,Keras deep variational autoencoder
+https://stackoverflow.com/questions/42913869,Keras : training with an array as an input
+https://stackoverflow.com/questions/37128886,"Keras, best way to save state when optimizing"
+https://stackoverflow.com/questions/42878128,Default activation function in Keras
+https://stackoverflow.com/questions/46256257,Keras simple RNN implementation
+https://stackoverflow.com/questions/48360816,Deep Learning fit error (the list of Numpy arrays that you are passing to your model is not the size the model expected.)
+https://stackoverflow.com/questions/36968128,Saliency maps of neural networks (using Keras)
+https://stackoverflow.com/questions/38450729,Keras BFGS training using Scipy minimize
+https://stackoverflow.com/questions/46165464,Reshape Keras Input for LSTM
+https://stackoverflow.com/questions/35228095,Python/Keras/Neural Networks - Basics to make it run
+https://stackoverflow.com/questions/45509296,More than one prediction in multi-classification in Keras?
+https://stackoverflow.com/questions/30383404,What is data type for Python Keras deep learning package?
+https://stackoverflow.com/questions/47240348,What is the meaning of the None in model.summary of KERAS?
+https://stackoverflow.com/questions/49583805,Using different loss functions for different outputs simultaneously Keras?
+https://stackoverflow.com/questions/42284873,Assign ImageDataGenerator result to Numpy array
+https://stackoverflow.com/questions/45566695,Multidimensional Input to Keras
+https://stackoverflow.com/questions/43965581,VGG16 Keras fine tuning: low accuracy
+https://stackoverflow.com/questions/48121763,python RNN LSTM error
+https://stackoverflow.com/questions/40135370,Keras getting wrong output shape
+https://stackoverflow.com/questions/44071094,R reticulate package does not see keras library in winpython
+https://stackoverflow.com/questions/48542044,ValueError: Input arrays should have the same number of samples as target arrays
+https://stackoverflow.com/questions/48641189,Fitting 3D data as Input into Keras Sequential Model Layer
+https://stackoverflow.com/questions/43443709,Downsampling output tensor before using it as an input to a new layer
+https://stackoverflow.com/questions/38809686,Keras import error Nadam
+https://stackoverflow.com/questions/39910579,Keras- Loss per sample within batch
+https://stackoverflow.com/questions/41708506,Multi-Output Multi-Class Keras Model
+https://stackoverflow.com/questions/48603659,__index__ returned non-int (type NoneType)
+https://stackoverflow.com/questions/41883800,Keras inception v3 retraining and finetuning error
+https://stackoverflow.com/questions/49477097,Keras seq2seq - word embedding
+https://stackoverflow.com/questions/37523882,Keras Wrappers for Scikit Learn - AUC scorer is not working
+https://stackoverflow.com/questions/50677544,Reflection padding Conv2D
+https://stackoverflow.com/questions/43235054,TypeError: 'bool' object has no attribute '__getitem__'
+https://stackoverflow.com/questions/42840517,error: from keras.preprocessing.text import base_filter
+https://stackoverflow.com/questions/40119736,keras batchnorm has awful test performance
+https://stackoverflow.com/questions/44198201,Callbackfunction modelcheckpoint causes error in keras
+https://stackoverflow.com/questions/47187149,Keras LSTM batch input shape
+https://stackoverflow.com/questions/46771939,Batch normalization instead of input normalization
+https://stackoverflow.com/questions/37265159,Lasagne/Theano doesn't consume multi cores while check_blas.py does
+https://stackoverflow.com/questions/39661433,keras import fails no module named contrib.ctc
+https://stackoverflow.com/questions/37544894,Incompatible dense layer error in keras
+https://stackoverflow.com/questions/45383706,Do I Need Pretrained Weights For Keras VGG16?
+https://stackoverflow.com/questions/40144805,print learning rate evary epoch in sgd
+https://stackoverflow.com/questions/41882280,What's the purpose of nb_epoch in Keras's fit_generator?
+https://stackoverflow.com/questions/51180234,Keras Conv2D: filters vs kernel_size
+https://stackoverflow.com/questions/46817085,Keras: Interpreting the output of get_weights()
+https://stackoverflow.com/questions/50754017,Keras implementation issue unexpected keyword argument 'axis'
+https://stackoverflow.com/questions/49091553,UserWarning: Discrepancy between trainable weights and collected trainable weights error
+https://stackoverflow.com/questions/43730275,"Keras pickle_safe: What does it mean to be pickle safe, or alternatively, non picklable in Python?"
+https://stackoverflow.com/questions/46896807,"Keras LSTM TimeDistributed, stateful"
+https://stackoverflow.com/questions/38987680,"In Keras(Deep learning library), RepeatVector + TimeDistributed = Error?"
+https://stackoverflow.com/questions/50199217,Feature selection on a keras model
+https://stackoverflow.com/questions/38042582,Changing pretrained AlexNet classification in Keras
+https://stackoverflow.com/questions/47713596,Feature importance with keras
+https://stackoverflow.com/questions/44740744,Concatenate input with constant vector in keras
+https://stackoverflow.com/questions/47206714,Which layers should I freeze for fine tuning a resnet model on keras?
+https://stackoverflow.com/questions/42508283,Loading Keras layers from config
+https://stackoverflow.com/questions/48488549,"Keras, append to logs from callback"
+https://stackoverflow.com/questions/43936818,Splt data into train and validation in keras when path to images are loaded
+https://stackoverflow.com/questions/42239980,Keras: multiclass classification
+https://stackoverflow.com/questions/45909569,number of input channels does not match corresponding dimension of filter in Keras
+https://stackoverflow.com/questions/40277327,Keras - Connecting Functional API models together
+https://stackoverflow.com/questions/48373845,Loading model with custom loss + keras
+https://stackoverflow.com/questions/42328034,Keras load_model not working after training
+https://stackoverflow.com/questions/36812548,error in Keras: Invalid argument 'metrics' passed to K.function
+https://stackoverflow.com/questions/45111142,Keras -- Input Shape for Embedding Layer
+https://stackoverflow.com/questions/45492318,Keras retrieve value of node before activation function
+https://stackoverflow.com/questions/49967752,Google Colab - Where is the output saved?
+https://stackoverflow.com/questions/51522848,Graph disconnected: cannot obtain value for tensor Tensor Input Keras Python
+https://stackoverflow.com/questions/48393438,Validation loss when using Dropout
+https://stackoverflow.com/questions/42603459,lstm for prediction of future time series values with Keras
+https://stackoverflow.com/questions/50822073,AttributeError: 'Sequential' object has no attribute '_built'
+https://stackoverflow.com/questions/47817424,Loss & accuracy - Are these reasonable learning curves?
+https://stackoverflow.com/questions/46060638,Keras Text Classification Custom Dataset from csv
+https://stackoverflow.com/questions/47035367,Merge two different deep learning models in Keras
+https://stackoverflow.com/questions/47822154,Layer conv2d_3 was called with an input that isn't a symbolic tensor
+https://stackoverflow.com/questions/49088159,Add a folder with ~20K of images into Google Colaboratory
+https://stackoverflow.com/questions/48372575,Keras: difference between test_on_batch and predict_on_batch
+https://stackoverflow.com/questions/40369951,The model from Keras give me same output
+https://stackoverflow.com/questions/46719028,Keras VGG16 predict speed slow
+https://stackoverflow.com/questions/42720236,"ValueError: Error when checking model target: expected convolution2d_2 to have shape (None, 26, 26, 64) but got array with shape (250, 227, 227, 1)"
+https://stackoverflow.com/questions/42721914,Why keras LSTM layer requires input shape?
+https://stackoverflow.com/questions/46982222,Keras multiple binary outputs
+https://stackoverflow.com/questions/47735205,Keras - Autoencoder for Text Analysis
+https://stackoverflow.com/questions/46385797,Neural Network (No hidden layers) vs Logistic Regression?
+https://stackoverflow.com/questions/46816206,Autoencoder for sound data in Keras
+https://stackoverflow.com/questions/48198031,Keras: Add variables to progress bar
+https://stackoverflow.com/questions/46327294,Keras custom loss function error: 'AttributeError: 'function' object has no attribute 'get_shape'
+https://stackoverflow.com/questions/47857437,Keras - ImportError: cannot import name 'CuDNNLSTM'
+https://stackoverflow.com/questions/42709051,What does the acc means in the Keras model.fit output? the accuracy of the final iteration in a epoch or the average accuracy in a epoch?
+https://stackoverflow.com/questions/41789961,Keras warning: Epoch comprised more than `samples_per_epoch` samples
+https://stackoverflow.com/questions/36136562,Wrong number of dimensions on model.fit
+https://stackoverflow.com/questions/45425476,Train Multi-Input Keras NN with batch of training data
+https://stackoverflow.com/questions/45467720,"ImageDataGenerator.flow: NumpyArrayIterator is set to use the data format convention channels_last, when fixed causes fitting error"
+https://stackoverflow.com/questions/47596703,Multiple outputs for multi step ahead time series prediction with Keras LSTM
+https://stackoverflow.com/questions/48880221,Layer Normalization with Python Keras
+https://stackoverflow.com/questions/43633883,Output tensors to a Model must be Keras tensors
+https://stackoverflow.com/questions/42689066,Convolutional Neural Net-Keras-val_acc Keyerror 'acc'
+https://stackoverflow.com/questions/40024619,Keras - Generator for large dataset of Images and Masks
+https://stackoverflow.com/questions/43160181,Keras merge layer warning
+https://stackoverflow.com/questions/47779249,multiple object detection in an image
+https://stackoverflow.com/questions/41755383,Keras weighted merge
+https://stackoverflow.com/questions/40074730,Keras mixture of models
+https://stackoverflow.com/questions/39863606,Why neural network tends to output 'mean value'?
+https://stackoverflow.com/questions/42885646,Why does this line produce an error?
+https://stackoverflow.com/questions/46207004,Keras LSTM dense layer multidimensional input
+https://stackoverflow.com/questions/52466932,restore_best_weights issue keras early stopping
+https://stackoverflow.com/questions/47884862,Keras: Big one-hot-encoding: binary_crossentropy or categorical_crossentropy
+https://stackoverflow.com/questions/39457744,Backpropagation through time in stateful RNNs
+https://stackoverflow.com/questions/41823555,Multi scale CNN Network Python Keras
+https://stackoverflow.com/questions/43343868,Feature extraction in Keras
+https://stackoverflow.com/questions/43103980,One dimensional convolutional variational autoencoder in keras
+https://stackoverflow.com/questions/46240629,"loss, val_loss, acc and val_acc do not update at all over epochs"
+https://stackoverflow.com/questions/43192447,Why is keras only doing 10 epochs when I set it to 300?
+https://stackoverflow.com/questions/43216513,Significance of auxiliary output in Multi-input and multi-output model using deep network
+https://stackoverflow.com/questions/45115582,difference in predictions between model.predict() and model.predict_generator() in keras
+https://stackoverflow.com/questions/44097279,Can't find keras.layers.containers.Sequential()
+https://stackoverflow.com/questions/42568349,Keras: Tokenizer with fit_generator() on text data
+https://stackoverflow.com/questions/42443104,One to many LSTM in Keras
+https://stackoverflow.com/questions/46333603,Keras: specify input dropout layer that always keeps certain features
+https://stackoverflow.com/questions/46040656,Binary Keras LSTM model does not output binary predictions
+https://stackoverflow.com/questions/49259361,"ValueError: `decode_predictions` expects a batch of predictions (i.e. a 2D array of shape (samples, 1000)). Found array with shape: (1, 7)"
+https://stackoverflow.com/questions/42096921,Passing input_dim to KerasClassifier (sklearn wrapper/interface)
+https://stackoverflow.com/questions/51763983,"Error when checking target: expected dense_1 to have 3 dimensions, but got array with shape (118, 1)"
+https://stackoverflow.com/questions/50720670,Using Dropout with Keras and LSTM/GRU cell
+https://stackoverflow.com/questions/48129804,I'm Trying to Get Keras to Load vgg16.h5 Wheights Locally Instead of Downloading
+https://stackoverflow.com/questions/47122052,Keras Model gives test accuracy 1.0
+https://stackoverflow.com/questions/44238165,"Datatypes, data shapes, and pad_sequences"
+https://stackoverflow.com/questions/39081910,ImportError: No module named keras.optimizers
+https://stackoverflow.com/questions/45329416,Keras {ValueError}: Input 0 is incompatible with layer conv2d_2
+https://stackoverflow.com/questions/50649831,Understanding Regularization in Keras
+https://stackoverflow.com/questions/48251943,my Keras model does not predict negative values
+https://stackoverflow.com/questions/42729958,Python theano undefined symbol: _ZdlPvm error
+https://stackoverflow.com/questions/41271952,Effect of class_weight and sample_weight in Keras
+https://stackoverflow.com/questions/41754247,Keras save model issue
+https://stackoverflow.com/questions/43000629,Keras Lambda Layer for Custom Loss
+https://stackoverflow.com/questions/42744903,Keras LSTM: Error when checking model input dimension
+https://stackoverflow.com/questions/42497925,Keras ValueError: Dimensions must be equal
+https://stackoverflow.com/questions/37758496,Python/Keras/Theano wrong dimensions for Deep Autoencoder
+https://stackoverflow.com/questions/39364516,Fitting Neural Net with different Epoch number in a loop without starting over each time
+https://stackoverflow.com/questions/46466013,Siamese Network with LSTM for sentence similarity in Keras gives periodically the same result
+https://stackoverflow.com/questions/42630504,"Keras Lambda layer has no output tensor shape, error when compiling model"
+https://stackoverflow.com/questions/41559425,Autoencoder not learning identity function
+https://stackoverflow.com/questions/36651291,Binary-CrossEntropy - Works on Keras But Not on Lasagne?
+https://stackoverflow.com/questions/46480699,Why are my Keras Conv2D kernels 3-dimensional?
+https://stackoverflow.com/questions/41837767,scikit-learn - Convert pipeline prediction to original value/scale
+https://stackoverflow.com/questions/45301648,Normalize the Validation Set for a Neural Network in Keras
+https://stackoverflow.com/questions/41958115,Max over time pooling in Keras
+https://stackoverflow.com/questions/43508589,Calculating size of output of a Conv layer in CNN model
+https://stackoverflow.com/questions/47750930,Keras always predicting the same output
+https://stackoverflow.com/questions/44833816,Weird accuracy in multilabel classification keras
+https://stackoverflow.com/questions/48558085,Real-time anomaly detection from time series data
+https://stackoverflow.com/questions/42581099,Is it possible to use Image Preprocessing with image sequences?
+https://stackoverflow.com/questions/43331057,Python: Issues training and predicting regression on Keras
+https://stackoverflow.com/questions/47523841,Using keras to load model and assign new values to its parameters
+https://stackoverflow.com/questions/37074244,Run model in reverse in Keras
+https://stackoverflow.com/questions/43054687,keras ignoring values in $HOME/.keras/keras.json file
+https://stackoverflow.com/questions/41570901,Get Ouput Of A Keras Model/Layer
+https://stackoverflow.com/questions/47573293,Unable to transform string column to categorical matrix using Keras and Sklearn
+https://stackoverflow.com/questions/41877354,Training a Keras model with video input on a Macbook Pro 13 results in Killed: 9 status
+https://stackoverflow.com/questions/43750133,Input Data Format for RNN
+https://stackoverflow.com/questions/48677128,What is the right way to preprocess images in Keras while fine-tuning pre-trained models
+https://stackoverflow.com/questions/44805600,Keras: freezing layers during training does not give consistent output
+https://stackoverflow.com/questions/46174757,Conv2D layer output shape in keras
+https://stackoverflow.com/questions/38081263,Stream Output of Predictions in Keras
+https://stackoverflow.com/questions/48646743,LSTM Autoencoder on timeseries
+https://stackoverflow.com/questions/46643691,Keras - model.predict_classes gives wrong labels
+https://stackoverflow.com/questions/44731059,Keras LSTM autoencoder with embedding layer
+https://stackoverflow.com/questions/44787050,Merge layers (concatenate) in keras
+https://stackoverflow.com/questions/45915297,Write a custom MSE loss function in Keras
+https://stackoverflow.com/questions/49183229,ValueError: `Concatenate` layer requires inputs with matching shapes except for the concat axis
+https://stackoverflow.com/questions/48521910,Passing initial_state to Bidirectional RNN layer in Keras
+https://stackoverflow.com/questions/44612653,Keras No module named models
+https://stackoverflow.com/questions/43152053,Appending layers with previous in keras? - Conv2D' object has no attribute 'is_placeholder'
+https://stackoverflow.com/questions/42804966,Convert Sequential to Functional in Keras
+https://stackoverflow.com/questions/42598630,Why can't I use preprocessing module in Keras?
+https://stackoverflow.com/questions/40173892,Center Loss in Keras
+https://stackoverflow.com/questions/41600519,Accuracy does not go up on a keras model
+https://stackoverflow.com/questions/42790561,LSTM's for Binary classification in Keras?
+https://stackoverflow.com/questions/45894208,Strange error with Keras and Spyder
+https://stackoverflow.com/questions/49861842,AttributeError: 'Tokenizer' object has no attribute 'oov_token' in Keras
+https://stackoverflow.com/questions/47731935,Using multiple validation sets with keras
+https://stackoverflow.com/questions/44886509,Keras save checkpoints
+https://stackoverflow.com/questions/45450015,Predicting time series data with Neural Network in python
+https://stackoverflow.com/questions/44579186,Importing a Keras Python CNN to Matlab
+https://stackoverflow.com/questions/47514063,What is the difference between scipy.ndimage.imread and matplotlib.pyplot.imread?
+https://stackoverflow.com/questions/49216803,No dashboards are active for the current data set.
+https://stackoverflow.com/questions/48367277,Multilabel image classification: is it necessary to have training data for each combination of labels?
+https://stackoverflow.com/questions/37823109,input_shape issue in Neural networks with Keras in Python
+https://stackoverflow.com/questions/47505434,Processing a long audio signal with Conv1D in Keras
+https://stackoverflow.com/questions/42520104,Keras/Theano VGG16 AttributeError: 'Model' object has no attribute 'ndim'
+https://stackoverflow.com/questions/48253348,"RNN time series predictions with multiple time series dimension with Keras, Tensorflow"
+https://stackoverflow.com/questions/46387056,Shape of image after MaxPooling2D with padding ='same' --calculating layer-by-layer shape in convolution autoencoder
+https://stackoverflow.com/questions/39566123,Keras shape of features for training
+https://stackoverflow.com/questions/41645990,Persistent Variable in keras Custom Layer
+https://stackoverflow.com/questions/50969459,Keras Bidirectional RuntimeError: You must compile your model before using it. after compilation completed
+https://stackoverflow.com/questions/46321216,Make a Custom loss function in Keras in detail
+https://stackoverflow.com/questions/50054700,Use keras mobilenet model
+https://stackoverflow.com/questions/46853224,Number of neurons for LSTM
+https://stackoverflow.com/questions/39976718,Deep autoencoder in Keras converting one dimension to another i
+https://stackoverflow.com/questions/48041867,Why is accuracy different between Keras model.fit and model.evaluate?
+https://stackoverflow.com/questions/43905185,Keras TypeError: evaluate_generator() got an unexpected keyword argument 'steps'
+https://stackoverflow.com/questions/48717670,Seq2Seq with Keras understanding
+https://stackoverflow.com/questions/41836602,Why does shuffling my validation set in Keras change my model's performance?
+https://stackoverflow.com/questions/50672583,Keras: Categorical vs Continuous input to a LSTM
+https://stackoverflow.com/questions/34311586,Cannot train a neural network solving XOR mapping
+https://stackoverflow.com/questions/41081942,keras stuck during optimization
+https://stackoverflow.com/questions/48172953,No module named 'imagenet_utils' for Jupyter but exists on Spyder
+https://stackoverflow.com/questions/43944981,Keras: Error when checking input
+https://stackoverflow.com/questions/37053219,keras examples doesn't work
+https://stackoverflow.com/questions/46638219,Keras fit_generator with pandas iterator object
+https://stackoverflow.com/questions/51181393,Simple Linear Regression using Keras
+https://stackoverflow.com/questions/38782089,Import issue with Theano: AttributeError: 'module' object has no attribute 'poll'
+https://stackoverflow.com/questions/39030672,Keras ImageDataGenerator not working as expected
+https://stackoverflow.com/questions/45525444,Keras handling large dataset which cannot fit into memory
+https://stackoverflow.com/questions/46011749,Understanding Keras model architecture (node index of nested model)
+https://stackoverflow.com/questions/45744470,"Many to one LSTM, multiclass classification"
+https://stackoverflow.com/questions/46446176,Can't determine input shape and type of Convolutional Layer in Keras
+https://stackoverflow.com/questions/43621258,Data Shape / Format for RNNs with Multiple Features
+https://stackoverflow.com/questions/46202519,Keras Tokenizer num_words doesn't seem to work
+https://stackoverflow.com/questions/42786129,Keras doesn't make good predictions
+https://stackoverflow.com/questions/47034692,Keras set output of intermediate layer to 0 or 1 based on threshold
+https://stackoverflow.com/questions/44310448,Attaching class labels to a Keras model
+https://stackoverflow.com/questions/42863092,Why do I have to do two train steps for fine-tuning InceptionV3 in Keras?
+https://stackoverflow.com/questions/42462431,OSError: broken data stream when reading image file
+https://stackoverflow.com/questions/42978947,Incorrect input to Conv2D in Keras
+https://stackoverflow.com/questions/51632716,Keras Concatenate Layers: Difference between different types of concatenate functions
+https://stackoverflow.com/questions/46751503,keras: predict on a single image
+https://stackoverflow.com/questions/44956843,ios / CoreML - The input type is MultiArray when keras model is converted to CoreML
+https://stackoverflow.com/questions/40453494,Deconv implementation in keras output_shape issue
+https://stackoverflow.com/questions/43058675,Keras: TypeError with batch_size
+https://stackoverflow.com/questions/43263111,Defining an AUC metric for Keras to support evaluation of validation dataset
+https://stackoverflow.com/questions/47973267,"Python|Keras: ValueError: Error when checking target: expected conv2d_3 to have 4 dimensions, but got array with shape (1006, 5)"
+https://stackoverflow.com/questions/51150468,Error You must compile your model before using it in case of LSTM and fit_generator in Keras
+https://stackoverflow.com/questions/49452731,Segmentation-free Handwritten Text Recognition with Keras
+https://stackoverflow.com/questions/34660337,Keras autoencoder accuracy/loss doesn't change
+https://stackoverflow.com/questions/44959311,Keras best Image Data Generator parameters for data augmentation
+https://stackoverflow.com/questions/46177721,Keras - Error when checking target
+https://stackoverflow.com/questions/50194416,Do programs continue execution after connection is lost on google-colaboratory?
+https://stackoverflow.com/questions/45222083,Correctly reshaping MNIST images through keras
+https://stackoverflow.com/questions/45906207,Still downloading even Keras has the VGG16 pretrained model in ./keras/models
+https://stackoverflow.com/questions/46750772,Transform Pandas Column into Numpy Array for Keras Neural Network
+https://stackoverflow.com/questions/47824598,Why does my training loss have regular spikes?
+https://stackoverflow.com/questions/50093490,Concatenate two tensors with different shapes in Keras
+https://stackoverflow.com/questions/45119263,"Transfer learning in Keras: ValueError: Error when checking target: expected dense_26 to have shape (None, 3) but got array with shape (3000, 1)"
+https://stackoverflow.com/questions/49866874,Advanced Activation layers in Keras Functional API
+https://stackoverflow.com/questions/42746901,"Keras - TypeError: Output tensors to a Model must be Keras tensors - while modelling multiple input , multiple output network"
+https://stackoverflow.com/questions/41818043,Keras Plotting accuracy vs time
+https://stackoverflow.com/questions/38648195,Keras low accuracy classification task
+https://stackoverflow.com/questions/37467538,Keras model to Theano function
+https://stackoverflow.com/questions/45204870,Keras np_utils.to_categorical behaves differently
+https://stackoverflow.com/questions/39462142,Keras model.predict won't accept input of size one (scalar number)
+https://stackoverflow.com/questions/48929098,Module object has no attribute relu
+https://stackoverflow.com/questions/41915862,Theano / Keras: Set the K-first values of Tensor to a value
+https://stackoverflow.com/questions/40688101,Dimension reduction using Keras
+https://stackoverflow.com/questions/45846995,Predicting weather data using LSTM neural nets with Keras
+https://stackoverflow.com/questions/43823647,Making decoder model for sequence to sequence autoencoder in Keras
+https://stackoverflow.com/questions/37031106,Zero-padding for ResNet shortcut connections when channel number increase
+https://stackoverflow.com/questions/44903946,redefinition of unused function in python
+https://stackoverflow.com/questions/41914939,Keras input dimension
+https://stackoverflow.com/questions/31923625,Recurrent neural layers in Keras
+https://stackoverflow.com/questions/50322660,Custom Data Generator for Keras LSTM with TimeSeriesGenerator
+https://stackoverflow.com/questions/46440273,Error in getting confusion matrix
+https://stackoverflow.com/questions/40449522,Keras ImageDataGenerator setting mean and std
+https://stackoverflow.com/questions/44107716,Standardizing numpy array in Keras
+https://stackoverflow.com/questions/48628041,Param Tuning with Keras and Hyperas
+https://stackoverflow.com/questions/48318292,Sequence Prediction using keras LSTM
+https://stackoverflow.com/questions/41723247,SKlearn Tfidfvectorizer with Keras: expected dense_input_1 to have shape
+https://stackoverflow.com/questions/50888811,keras custom ImageDataGenerator
+https://stackoverflow.com/questions/51711688,ValueError: malformed node or string with ast.literal_eval() when adding a Keras layer
+https://stackoverflow.com/questions/42852495,Where did Keras function `slice_X()` go?
+https://stackoverflow.com/questions/46345098,Proper way to save Transfer Learning model in Keras
+https://stackoverflow.com/questions/41569858,Keras model.predict for multinomial logistic regression
+https://stackoverflow.com/questions/43265084,Keras TimeDistributed - are weights shared?
+https://stackoverflow.com/questions/40074556,Numpy error in mtrand.pyx file
+https://stackoverflow.com/questions/50448743,Is it logical to loop on model.fit in Keras?
+https://stackoverflow.com/questions/44644800,Is it possible to save a trained layer to use layer on Keras?
+https://stackoverflow.com/questions/40458861,Keras Fit_generator Callback
+https://stackoverflow.com/questions/38713407,customised loss function in keras using theano function
+https://stackoverflow.com/questions/47814809,fit_generator() to save model with least validation loss
+https://stackoverflow.com/questions/44474203,Convert Keras model to CoreML on Ubuntu
+https://stackoverflow.com/questions/43055289,keras's model.fit() is not consistent with model.evaluate()
+https://stackoverflow.com/questions/43988332,TimeDistributed layer and return sequences etc for LSTM in Keras
+https://stackoverflow.com/questions/46465813,Creating constant value in Keras
+https://stackoverflow.com/questions/51963377,keras 'NoneType' object has no attribute '_inbound_nodes'
+https://stackoverflow.com/questions/48845354,Why is validation accuracy higher than training accuracy when applying data augmentation?
+https://stackoverflow.com/questions/48729107,Is fit_generator in Keras supposed to reset the generator after each epoch?
+https://stackoverflow.com/questions/48034625,Keras LSTM predicted timeseries squashed and shifted
+https://stackoverflow.com/questions/44710080,Keras - Merging layers - Keras 2.0
+https://stackoverflow.com/questions/49152221,Memory Error : Training large dataset
+https://stackoverflow.com/questions/45726422,Multiple Layer hidden layer in LSTM in Keras
+https://stackoverflow.com/questions/48934338,Non linear Regression: Why isn't the model learning?
+https://stackoverflow.com/questions/46032700,Concatenate Embedding layers
+https://stackoverflow.com/questions/48584962,Keras Model - Functional API - adding layers to existing model
+https://stackoverflow.com/questions/48473957,Adding new features to the output of Flatten() layer in Keras
+https://stackoverflow.com/questions/46157074,Difference between accuracy_score in scikit-learn and accuracy in Keras
+https://stackoverflow.com/questions/46353712,Saving and loading a keras model
+https://stackoverflow.com/questions/47774931,"Keras, print metrics only for validation data"
+https://stackoverflow.com/questions/44477410,Predict a 2D matrix from an image with keras keeping spatial information
+https://stackoverflow.com/questions/48325272,Keras model with multiple outputs not converging
+https://stackoverflow.com/questions/41945761,Keras Dense Layer Error: TypeError: 'int' object is not callable
+https://stackoverflow.com/questions/39525358,Neural network accuracy optimization
+https://stackoverflow.com/questions/41530218,Keras: Loading minibatches from HDF5 and CSV
+https://stackoverflow.com/questions/49009386,Train only some word embeddings (Keras)
+https://stackoverflow.com/questions/40370376,Keras LSTM training for text generation
+https://stackoverflow.com/questions/46755115,Training in SSD Implementation in Keras halts after few iteration without any output or error
+https://stackoverflow.com/questions/47300713,Keras model taking forerver to train with dask dataframe
+https://stackoverflow.com/questions/43326375,Keras LSTM: first argument
+https://stackoverflow.com/questions/47818968,Adding an additional value to a Convolutional Neural Network Input?
+https://stackoverflow.com/questions/48397103,Keras Multi-Label Classification 'to_categorical' Error
+https://stackoverflow.com/questions/48672130,Saving to hdf5 is very slow (Python freezing)
+https://stackoverflow.com/questions/36599237,Keras. ValueError: I/O operation on closed file
+https://stackoverflow.com/questions/45493987,why do keras-rl examples always choose linear activation in the output layer?
+https://stackoverflow.com/questions/42632411,Keras: can Convolution2D work on rectangular images?
+https://stackoverflow.com/questions/47265412,Custom connections between layers Keras
+https://stackoverflow.com/questions/42785433,Keras training only specific outputs
+https://stackoverflow.com/questions/38452646,merging inputs with embeddings and dense layer
+https://stackoverflow.com/questions/44921058,Can't fit data to 3d convolutional U-net Keras
+https://stackoverflow.com/questions/36363222,Python/Keras/Theano - Index out of bounds
+https://stackoverflow.com/questions/36039263,Using Keras/ Neural Networks for categorical data
+https://stackoverflow.com/questions/47461538,Keras ImageDataGenerator: random transform
+https://stackoverflow.com/questions/49073673,Include punctuation in keras tokenizer
+https://stackoverflow.com/questions/41869984,Keras - CNN Model Summary Diemension Interpretation
+https://stackoverflow.com/questions/50012105,Keras Denoising Autoencoder (tabular data)
+https://stackoverflow.com/questions/43772006,converting VGG functional model into sequential model in Keras
+https://stackoverflow.com/questions/45855740,Keras in `pip list` and anaconda package list but cannot import
+https://stackoverflow.com/questions/45313775,Keras Training warm_start
+https://stackoverflow.com/questions/39432170,Optimizing Keras to use all available CPU resources
+https://stackoverflow.com/questions/46177505,Keras kernel initializer with gabor filter
+https://stackoverflow.com/questions/50663623,Resize MNIST images before training using Keras
+https://stackoverflow.com/questions/51776802,Keras Reshape layer adding an extra dimension?
+https://stackoverflow.com/questions/47710566,class_weight='auto' for model.fit_generator keras
+https://stackoverflow.com/questions/40853349,machine learning: Image classification into 3 classes (Dog or Cat or Neither) using Convolutional NN
+https://stackoverflow.com/questions/43025416,categorical_crossentropy returns small loss value even if accuracy is 1.00 in keras
+https://stackoverflow.com/questions/42694725,Panel data in Keras LSTM
+https://stackoverflow.com/questions/46991820,Keras: error loading model with custom loss function
+https://stackoverflow.com/questions/39171170,Error on Keras SimpleRNN when input_shape is specified to be 3-d
+https://stackoverflow.com/questions/42800203,Keras RNN LSTM accuracy not changing
+https://stackoverflow.com/questions/39117878,Keras SimpleRNN input shape and masking
+https://stackoverflow.com/questions/41517202,roc_curve from multilabel classification has slope
+https://stackoverflow.com/questions/43994604,Padding with even kernel size in a convolutional layer in Keras (Theano)
+https://stackoverflow.com/questions/43075415,ResNet50 nan loss with Keras 2
+https://stackoverflow.com/questions/45590240,"LSTM and CNN: ValueError: Error when checking target: expected time_distributed_1 to have 3 dimensions, but got array with shape (400, 256)"
+https://stackoverflow.com/questions/48991644,Keras fit_generator using input and output image generators 'ndim' error
+https://stackoverflow.com/questions/34445890,Gradient from Theano expression for filter visualization in Keras
+https://stackoverflow.com/questions/50133385,preprocessing images generated using keras function ImageDataGenerator() to train resnet50 model
+https://stackoverflow.com/questions/45510403,"Keras for semantic segmentation, flow_from_directory() error"
+https://stackoverflow.com/questions/45197663,Force positive weight keras
+https://stackoverflow.com/questions/44399299,Keras Python Multi Image Input shape error
+https://stackoverflow.com/questions/49468918,Application of ConvLSTM2D layers
+https://stackoverflow.com/questions/46404581,Keras Error with Output Dimensions
+https://stackoverflow.com/questions/48091334,"Keras - ValueError: If steps_per_epoch is set, the `batch_size` must be None"
+https://stackoverflow.com/questions/42155234,Does the GaussianDropout Layer in Keras retain probability like the Dropout Layer?
+https://stackoverflow.com/questions/52779602,Error- AttributeError: 'DirectoryIterator' object has no attribute 'ndim in autoencoder design in keras
+https://stackoverflow.com/questions/51421885,expected dense to have shape but got array with shape
+https://stackoverflow.com/questions/49354382,Simplifying a Keras LSTM model in functional API
+https://stackoverflow.com/questions/47319726,Keras: Merge/Concatenate Layer: TypeError: __init__() got multiple values for argument 'axis'
+https://stackoverflow.com/questions/46006477,Input dimensionality using pre-trained CNNs in Keras for transfer learning
+https://stackoverflow.com/questions/47842931,"ValueError: Error when checking target: expected model_2 to have shape (None, 252, 252, 1) but got array with shape (300, 128, 128, 3)"
+https://stackoverflow.com/questions/42082068,Keras for multiple digit recognition
+https://stackoverflow.com/questions/49165351,Why val_loss is different from training loss when use the same training data as validation data?
+https://stackoverflow.com/questions/49741607,Use CNN for regression task in Keras
+https://stackoverflow.com/questions/43562449,Keras callbacks when running cross validation
+https://stackoverflow.com/questions/47002177,GridSearchCV for number of neurons
+https://stackoverflow.com/questions/43325077,Keras ImageDataGenerator method flow_from_directory
+https://stackoverflow.com/questions/42839927,"Keras expected sequential_2 to have shape (None, 2) but got array with shape (32, 1)"
+https://stackoverflow.com/questions/47024918,Implementing a complicated activation function in keras
+https://stackoverflow.com/questions/51442459,Why is ReLU used in regression with Neural Networks?
+https://stackoverflow.com/questions/49552651,Conv1D convolutional Autoencoder for text in keras
+https://stackoverflow.com/questions/51680818,Keras custom loss as a function of multiple outputs
+https://stackoverflow.com/questions/49786713,Saving just model & weights in Keras (in single file)
+https://stackoverflow.com/questions/43402302,Why the sum of model.predict(x) is less than 1 with softmax and LSTM?
+https://stackoverflow.com/questions/42590770,Keras/HDF5 TypeError: PointSelection __getitem__ only works with bool arrays
+https://stackoverflow.com/questions/51210836,Keras: feed images into CNN and get image output
+https://stackoverflow.com/questions/42792405,Return Inverse Hessian Matrix at the end of DNN Training and Partial Derivatives wrt the Inputs
+https://stackoverflow.com/questions/41977498,RNN is not overfitting on simple data
+https://stackoverflow.com/questions/48025267,Relationship between loss and accuracy
+https://stackoverflow.com/questions/37118371,strange error when using keras on established theano enviorment
+https://stackoverflow.com/questions/42888030,UnboundLocalError: local variable 'class_name' referenced before assignment
+https://stackoverflow.com/questions/50542683,"TypeError: write() argument must be str, not bytes while saving .npy file"
+https://stackoverflow.com/questions/48429743,Why is scikit learn's average precision score returning nan?
+https://stackoverflow.com/questions/48233400,LSTM Initial state from Dense layer
+https://stackoverflow.com/questions/44191723,Python library to perform stratified KFold cross-validation in Keras
+https://stackoverflow.com/questions/45188140,Deep Learning: small dataset with keras : local minima
+https://stackoverflow.com/questions/40920605,Reshaping image data in Keras to match CNN requirements
+https://stackoverflow.com/questions/42951051,Model' object has no attribute 'add' Keras Autoencoder
+https://stackoverflow.com/questions/38549064,Setup Keras options for LSTM modelling
+https://stackoverflow.com/questions/49840968,"ValueError: Input 0 is incompatible with layer conv1d_1: expected ndim=3, found ndim=4"
+https://stackoverflow.com/questions/51945823,Adding multiple hidden layers keras
+https://stackoverflow.com/questions/46292203,Input_shape with Conv2D error
+https://stackoverflow.com/questions/49844360,"Keras(FIT_GENERATOR)- Error, when checking target: expected activation_1 to have 3 dimensions, but got array with shape (32, 416, 608, 3)"
+https://stackoverflow.com/questions/49243567,"Keras syntax error for model.add(Dense, (133))"
+https://stackoverflow.com/questions/46287403,Is there a way to implement early stopping in Keras ONLY after the first
+https://stackoverflow.com/questions/42768346,input_shape 2D Convolutional layer in keras
+https://stackoverflow.com/questions/39399029,My loss with fit_generator is 0.0000e+00 (using Keras)
+https://stackoverflow.com/questions/43083381,Keras - predict_proba does not add up to 1?
+https://stackoverflow.com/questions/45470067,Implementing Keras Model into website with Keras.js
+https://stackoverflow.com/questions/46502207,Fine tuning InceptionV3 in Keras
+https://stackoverflow.com/questions/46280770,Keras LSTM layers input shape
+https://stackoverflow.com/questions/50333532,Load images and annotations from CSV and use fit_generator with multi-output models
+https://stackoverflow.com/questions/42281589,Keras Image Preprocessing: Tuple Index Out of Range
+https://stackoverflow.com/questions/46459843,Keras LSTM predict 1 timestep at a time
+https://stackoverflow.com/questions/44010579,Keras:Vgg16 -- Error in `decode_predictions'
+https://stackoverflow.com/questions/47585698,Keras: Using a generator for multi-output model with model.fit_generator
+https://stackoverflow.com/questions/47268608,Confusion about Keras RNN Input shape requirement
+https://stackoverflow.com/questions/48518434,"Keras - Negative dimension size caused by subtracting 5 from 4 for 'conv2d_5/convolution' (op: 'Conv2D') with input shapes: [?,4,80,64], [5,5,64,64]"
+https://stackoverflow.com/questions/43227938,Keras embedding layer masking. Why does input_dim need to be |vocabulary| + 2?
+https://stackoverflow.com/questions/42449635,Why does my keras neural network model output different values on a different machine?
+https://stackoverflow.com/questions/42843465,Hyperparameter Optimization in sklearn and n_jobs > 1: Pickling
+https://stackoverflow.com/questions/46666907,Keras Seq2Seq Introduction
+https://stackoverflow.com/questions/41817828,Produce Audio with Convolutional neural networks
+https://stackoverflow.com/questions/48085257,Inception V3 fine tuning
+https://stackoverflow.com/questions/46241220,Keras: Adding batch of constant inputs to Dense Layer
+https://stackoverflow.com/questions/50394921,Keras explanation: number of nodes in input layer
+https://stackoverflow.com/questions/49032027,Understanding Keras prediction output of a rnn model in R
+https://stackoverflow.com/questions/49941903,Keras: compute cosine distance between two flattened outputs
+https://stackoverflow.com/questions/42622444,Can't save a Pipeline estimator
+https://stackoverflow.com/questions/43578934,keras can not reshape keras tesnor using reshape
+https://stackoverflow.com/questions/44504963,Imbalanced Classes in Convolutional Neural Networks
+https://stackoverflow.com/questions/40398821,Keras: Weight sharing doesn't work
+https://stackoverflow.com/questions/52020748,Why Bother With Recurrent Neural Networks For Structured Data?
+https://stackoverflow.com/questions/51657476,Keras dot/Dot layer behavior on 3D tensors
+https://stackoverflow.com/questions/49510612,Change training dataset every N epochs in Keras
+https://stackoverflow.com/questions/42612542,Keras: shape error when using validation data
+https://stackoverflow.com/questions/43020237,Getting Attribute error while adding Conv2D in sequential model of Keras
+https://stackoverflow.com/questions/47319197,Keras RStudio custom loss function
+https://stackoverflow.com/questions/46642627,Keras: Accuracy stays zero
+https://stackoverflow.com/questions/46570963,Keras Lambda Layer for matrix vector multiplication
+https://stackoverflow.com/questions/49875127,Share weights between two dense layers in keras
+https://stackoverflow.com/questions/47979861,Any workaround to getting a list to numpy array for keras input data?
+https://stackoverflow.com/questions/49808998,Is there a relation between the number of LSTM units and the length of the sequence to be trained?
+https://stackoverflow.com/questions/43292009,Keras and ImageGenerator outputs black images
+https://stackoverflow.com/questions/49855404,Keras Bidirectional LSTM - Layer grouping
+https://stackoverflow.com/questions/42032250,"Keras 3D Convolution: Error when checking model input: expected covolution3d_input_1 to have 5 dimensions, but got array shape (1, 90, 100, 100)"
+https://stackoverflow.com/questions/46995209,"Neural network toy model to fit sine function fails, what's wrong?"
+https://stackoverflow.com/questions/45416245,Print/Save autoencoder generated features in Keras
+https://stackoverflow.com/questions/50578514,Load model in keras
+https://stackoverflow.com/questions/46534194,"Stateful LSTM in Keras: reset with fit, evaluate, and predict?"
+https://stackoverflow.com/questions/45996212,Keras Custom Optimizer_legacy.interfaces
+https://stackoverflow.com/questions/50772998,Training keras models online for free
+https://stackoverflow.com/questions/47575140,Keras Warning on_batch_begin
+https://stackoverflow.com/questions/50441120,keras TypeError: 'int' object is not iterable
+https://stackoverflow.com/questions/47480111,Keras - loss and val_loss increasing
+https://stackoverflow.com/questions/40790067,Keras scale Image Data to value between -1 and 1 with ImageDataGenerator
+https://stackoverflow.com/questions/49696981,Keras: Using Predict with a Model Trained with Normalized Data?
+https://stackoverflow.com/questions/47582982,Keras custom RMSLE metric
+https://stackoverflow.com/questions/46731790,sklearn RandomizedSearchCV with Pipelined KerasClassifier
+https://stackoverflow.com/questions/49197132,Resnet with Custom Data
+https://stackoverflow.com/questions/48482483,ValueError when loading a previously saved retrained VGG16 model using Keras
+https://stackoverflow.com/questions/48478784,"Concatenating layers in Keras (None,512) and (18577,4)"
+https://stackoverflow.com/questions/37281916,python keras neural network: IndexError: indices are out-of-bounds
+https://stackoverflow.com/questions/47769181,Saving the best val_loss with Keras callbacks
+https://stackoverflow.com/questions/36669068,Keras LSTM Error
+https://stackoverflow.com/questions/36524257,Unable to add Embedding layer to a siamese network using keras
+https://stackoverflow.com/questions/34228138,Doesn't work example with Keras framework
+https://stackoverflow.com/questions/49236260,Keras: Multiple inputs and Multiple ouputs for fit_generator using flow_from_directory
+https://stackoverflow.com/questions/42618543,Performing 1d convolution using 2d kernel in keras
+https://stackoverflow.com/questions/51343169,Is Keras fit_generator the best thing to use when handling data that does not fit in RAM?
+https://stackoverflow.com/questions/50356436,Model.summary() in Keras deep learning network
+https://stackoverflow.com/questions/48618525,Keras MSE definition
+https://stackoverflow.com/questions/50393014,Is there a way to convert an image from grayscale to RGB in pure Keras
+https://stackoverflow.com/questions/43264879,Ensuring if Python code is running on GPU or CPU
+https://stackoverflow.com/questions/46800129,GridSearch for MultiClass KerasClassifier
+https://stackoverflow.com/questions/51672747,Getting some form of keras multi-processing/threading to work on Windows
+https://stackoverflow.com/questions/49823192,Autoencoder Gridsearch Hyperparameter tuning Keras
+https://stackoverflow.com/questions/48308306,keras combine pretrained model
+https://stackoverflow.com/questions/43739224,Using Autoencoder on numerical dataset in Keras
+https://stackoverflow.com/questions/37797621,Balanced Error Rate as metric function
+https://stackoverflow.com/questions/45011851,Keras. figuring out class label encoding
+https://stackoverflow.com/questions/44221396,Max-margin loss in Keras/theano
+https://stackoverflow.com/questions/43899329,Input of 3D array into Sequential model Keras (Python)
+https://stackoverflow.com/questions/42461406,Loading a pre trained Keras model and predicting
+https://stackoverflow.com/questions/50083315,"ValueError: number of input channels does not match corresponding dimension of filter, 512 != 3"
+https://stackoverflow.com/questions/49739356,Keras: convolutional layer for 1D input
+https://stackoverflow.com/questions/39930962,Do you need to standardize inputs if you are using Batch Normalization?
+https://stackoverflow.com/questions/43464835,"Convolution Neural Network input_shape dimension error (KERAS ,PYTHON)"
+https://stackoverflow.com/questions/50654740,CTC LOSS ERROR InvalidArgumentError: Not enough time for target transition sequence
+https://stackoverflow.com/questions/42998842,What have I misunderstood about keras layer sizes?
+https://stackoverflow.com/questions/45759163,TypeError('Unrecognized keyword arguments: ' + str(kwargs)) # Validate user data
+https://stackoverflow.com/questions/47485587,Predict and evaluate metrics in Keras
+https://stackoverflow.com/questions/42234535,Keras correct input shape for multilayer perceptron
+https://stackoverflow.com/questions/46397260,Multidimensional Input to Keras LSTM - (for Classification)
+https://stackoverflow.com/questions/40840305,Does Keras work with input data including None value?
+https://stackoverflow.com/questions/42650003,"Training a dense layer from bottleneck features vs. freezing all layers but the last - should be the same, but they behave differently"
+https://stackoverflow.com/questions/51400185,"Expected to see 1 array(s), but instead got the following list of 3 arrays"
+https://stackoverflow.com/questions/47716273,Keras: does save_model really save all optimizer weights?
+https://stackoverflow.com/questions/41845821,Model input error
+https://stackoverflow.com/questions/48385830,Simple Keras neural network isn't learning
+https://stackoverflow.com/questions/50755429,Hyper-parameter Optimization with keras models: GridSearchCV or talos?
+https://stackoverflow.com/questions/46197493,Using gensim doc2vec with Keras Conv1d. ValueError
+https://stackoverflow.com/questions/50555434,Keras model to predict probability distribution
+https://stackoverflow.com/questions/48295401,What is the right way to freeze a convoloutional layer in keras
+https://stackoverflow.com/questions/48458635,Getting very bad prediction with KerasRegressor
+https://stackoverflow.com/questions/49132151,Elephas not loaded in PySpark: No module named elephas.spark_model
+https://stackoverflow.com/questions/46822679,Training two Keras models in tandem with partially shared weights
+https://stackoverflow.com/questions/42007591,Single object detection keras
+https://stackoverflow.com/questions/40810619,Keras - Fusion of a Dense Layer with a Convolution2D Layer
+https://stackoverflow.com/questions/50062951,Visualization of the filters of VGG16
+https://stackoverflow.com/questions/48568062,Keras - custom infinite data generator with shuffle
+https://stackoverflow.com/questions/44658643,Inform the R package keras of the correct location of Python
+https://stackoverflow.com/questions/40578598,Why can't i train my model
+https://stackoverflow.com/questions/49717115,Keras model.evaluate_generator results nearly twice real accuracy?
+https://stackoverflow.com/questions/44395519,Keras Inception-V3 model predictions way off
+https://stackoverflow.com/questions/46870336,LSTM text generation with Keras: What is diversity?
+https://stackoverflow.com/questions/36668242,Correct way to initialize a Keras sequential neural net?
+https://stackoverflow.com/questions/40370961,What changes need to be made to fit_generator work on Autoencoder
+https://stackoverflow.com/questions/42004948,Accuracy from callback and progress bar in Keras doesnt match
+https://stackoverflow.com/questions/39810655,Why is my Keras model performing so poorly on the Iris dataset?
+https://stackoverflow.com/questions/50214679,merge different models with different inputs Keras
+https://stackoverflow.com/questions/42440274,Training on the merged layer in keras
+https://stackoverflow.com/questions/50860182,"Error when checking input: expected conv2d_1_input to have shape (28, 28, 1) but got array with shape (3, 224, 224)"
+https://stackoverflow.com/questions/37624102,Very basic Keras CNN with 2 classes giving inexplicable answers
+https://stackoverflow.com/questions/37088838,"Relationship between Keras, Lasagne, Block and Theano?"
+https://stackoverflow.com/questions/44161967,Keras VGGnet Pretrained Model Variable Sized Input
+https://stackoverflow.com/questions/45322248,keras loss jumps to zero randomly at the start of a new epoch
+https://stackoverflow.com/questions/42787181,Variationnal auto-encoder: implementing warm-up in Keras
+https://stackoverflow.com/questions/49043955,"Shape of input to Flatten is not fully defined (got (None, None, 64)"
+https://stackoverflow.com/questions/42735153,"Called set_weights(weights) on layer i2h with a weight list of length 3418, but the layer was expecting 0 weights"
+https://stackoverflow.com/questions/46482139,Multivariate LSTM Forecast Loss and evaluation
+https://stackoverflow.com/questions/48528719,Multiple classes in Keras
+https://stackoverflow.com/questions/42744671,"Defining a stride of (2, 2) in Keras -- what is the second value?"
+https://stackoverflow.com/questions/48217119,keras - get probability per each class
+https://stackoverflow.com/questions/50581917,Deconvolution layers in keras
+https://stackoverflow.com/questions/48110699,Sudden spike in validation loss
+https://stackoverflow.com/questions/44671799,Using TimeDistributed with recurrent layer in Keras
+https://stackoverflow.com/questions/51265578,Keras Conv2D custom kernel initialization
+https://stackoverflow.com/questions/49202007,LSTM overfitting but validation accuracy not improving
+https://stackoverflow.com/questions/48906481,IOPub Error on Google Colaboratory in Jupyter Notebook
+https://stackoverflow.com/questions/43336630,"When predicting with an LSTM in Keras, is the hidden state still adjusted?"
+https://stackoverflow.com/questions/47944463,Specify Input Argument with KerasRegressor
+https://stackoverflow.com/questions/41695855,Modifying feature maps in keras
+https://stackoverflow.com/questions/46744018,Creating your own Keras Optimizer
+https://stackoverflow.com/questions/42995711,Keras - epoch dependant loss function
+https://stackoverflow.com/questions/47215406,Keras: accept integer labels for softmax output
+https://stackoverflow.com/questions/50615323,Keras SimpleRNN confusion
+https://stackoverflow.com/questions/44575920,CoreML load model saved with Keras 2
+https://stackoverflow.com/questions/50054938,Why do we need to include_top=False if we need to change the input_shape?
+https://stackoverflow.com/questions/48510318,Keras: stacking multiple LSTM layer with
+https://stackoverflow.com/questions/49912503,Multiple predictions of multi-class image classification with Keras
+https://stackoverflow.com/questions/46115896,Keras: handling batch size dimension for custom pearson correlation metric
+https://stackoverflow.com/questions/52632612,ImportError: cannot import name 'relu6' and AttributeError: module 'keras.applications.mobilenet' has no attribute 'relu6'
+https://stackoverflow.com/questions/50931591,Keras: stop gradient after a certain layer
+https://stackoverflow.com/questions/41999686,Keras classifier accuracy steadily increases during training then drops to 0.25 (local minimum?)
+https://stackoverflow.com/questions/40857445,Keras - getting Labels as strings from directory structure
+https://stackoverflow.com/questions/51344839,What is the difference between the terms accuracy and validation accuracy
+https://stackoverflow.com/questions/48587696,Unable to import Tokenizer from Keras
+https://stackoverflow.com/questions/45091099,Tensorboard + Keras + ML Engine
+https://stackoverflow.com/questions/43602451,Cannot set output dim of Conv2D in keras
+https://stackoverflow.com/questions/40191126,Implementing a custom objective function in Keras
+https://stackoverflow.com/questions/51341479,Keras: functional API what should the Input layer be for the embedding layer?
+https://stackoverflow.com/questions/49239738,Memory error while creating large one hot encoding for lstm
+https://stackoverflow.com/questions/39231977,keras: multiple w_constraints
+https://stackoverflow.com/questions/47049073,Keras Initializers of a particular shape
+https://stackoverflow.com/questions/42461673,Apply a shared Embedding layer on a set of documents in keras
+https://stackoverflow.com/questions/48457124,Where is the kernel weight initialization in my CNN model?
+https://stackoverflow.com/questions/51746179,"ValueError: Cannot reshape a tensor with 99872 elements to shape [1,125,1,8]"
+https://stackoverflow.com/questions/44158199,using keras with cifar10 dataset with vgg16 network model not learning properly?
+https://stackoverflow.com/questions/42652161,Unable to merge keras models after adding Lambda layer
+https://stackoverflow.com/questions/40121550,Training loss and validation loss in convolutional auto encoder is not decreasing much
+https://stackoverflow.com/questions/50608080,What is a cell class in Keras?
+https://stackoverflow.com/questions/47143718,"ValueError: Error when checking : expected flatten_1_input to have shape (None, 4, 4, 512) but got array with shape (1, 150, 150, 3)"
+https://stackoverflow.com/questions/49008862,Keras training with batches: Is the training loss computed before or after each optimization step?
+https://stackoverflow.com/questions/42655466,Keras VGG16 lower level features extraction
+https://stackoverflow.com/questions/44493395,Keras: model accuracy drops after reaching 99 percent accuracy and loss 0.01
+https://stackoverflow.com/questions/47244085,Why replacing the softmax activation with linear activation when visualizing the features in deep network
+https://stackoverflow.com/questions/43334080,Small validation accuracy ResNet 50
+https://stackoverflow.com/questions/50928329,"Getting x_test, y_test from generator in Keras?"
+https://stackoverflow.com/questions/47339971,Concatenate Layer Errors
+https://stackoverflow.com/questions/50182860,Use lambda expression with numpy array
+https://stackoverflow.com/questions/48717451,Keras KerasClassifier gridsearch TypeError: can't pickle _thread.lock objects
+https://stackoverflow.com/questions/43725396,Keras. Concatenate layers. TypeError
+https://stackoverflow.com/questions/47086840,Keras input shape error - passing the whole array not each line
+https://stackoverflow.com/questions/44703461,Can't save trained Neural Network using keras
+https://stackoverflow.com/questions/41526260,model.save_weights and model.load_weights not working as expected
+https://stackoverflow.com/questions/43487828,Understanding input_shape parameter in LSTM with Keras
+https://stackoverflow.com/questions/46258854,Python Keras ImageDataGenerator: AttributeError: 'super' object has no attribute 'init'
+https://stackoverflow.com/questions/36946535,Using `predict` in Keras to predict an 1D array in the same order as given
+https://stackoverflow.com/questions/48595625,Copy the same model multiple times in keras
+https://stackoverflow.com/questions/42606961,Can I use next layer's output as current layer's input by Keras?
+https://stackoverflow.com/questions/51871271,AssertionError while trying to fit model python
+https://stackoverflow.com/questions/46330073,Correct way to split data to batches for Keras stateful RNNs
+https://stackoverflow.com/questions/45420318,Keras multiclass classification probabilities do not sum up to 1
+https://stackoverflow.com/questions/41556222,Time series prediction with Keras - values close to average
+https://stackoverflow.com/questions/46270122,Avoiding vanishing gradient in deep neural networks
+https://stackoverflow.com/questions/46377940,Proper way to make prediction with Keras model trained with ImageDataGenerator
+https://stackoverflow.com/questions/50136032,Modify layers in resnet model
+https://stackoverflow.com/questions/51581521,Accuracy Stuck at 50% Keras
+https://stackoverflow.com/questions/46428676,Keras flow_from_directory function returning error: [WinError 3] The system cannot find the path specified
+https://stackoverflow.com/questions/52320059,Creating a new Sequential model inside a for loop (using Keras)
+https://stackoverflow.com/questions/41392201,Recurrent Neural Networks for Panel Data
+https://stackoverflow.com/questions/38445492,NN Model Architecture Per-Pixel Classification
+https://stackoverflow.com/questions/42735415,Keras add data with Sequential layers
+https://stackoverflow.com/questions/43292722,Will custom Lambda layer be included in the backpropagating in Keras
+https://stackoverflow.com/questions/49007163,Keras : Get true negative from y_true and y_pred
+https://stackoverflow.com/questions/49862326,Python - Pattern prediction using LSTM Recurrent Neural Networks with Keras
+https://stackoverflow.com/questions/44879991,Inception V3 fine tuning: Why do I obtain very low (.37) accuracy with InceptionV3 fine tuning?
+https://stackoverflow.com/questions/43702571,GridseachCV - ValueError: Found input variables with inconsistent numbers of samples: [33 1]
+https://stackoverflow.com/questions/39110234,Passing Individual Channels of Tensors to Layers in Keras
+https://stackoverflow.com/questions/44530649,Keras Cifar10 example data preprocessing
+https://stackoverflow.com/questions/48014059,Using keras flow_from_directory when running on google cloud machine learning engine
+https://stackoverflow.com/questions/39925462,Keras custom metric gives incorrect tensor shape
+https://stackoverflow.com/questions/47860327,"Keras error in Dense layer, expected 4 dimensions got array with shape (1024,2)"
+https://stackoverflow.com/questions/42641330,Convert Lasagne Model to Keras
+https://stackoverflow.com/questions/47639850,Writing a custom loss function without y_true in Keras
+https://stackoverflow.com/questions/45492341,validation loss and validation data of multi-output model in Keras
+https://stackoverflow.com/questions/43239897,Create readable image dataset for training in Keras
+https://stackoverflow.com/questions/45452783,Getting error while running a classification code in keras
+https://stackoverflow.com/questions/51219154,Visualizing plot decision boundary by a Keras model
+https://stackoverflow.com/questions/47116259,Does keras save_weights() function overwrite previous weights?
+https://stackoverflow.com/questions/47137980,BatchNormalization for some inputs only in Keras
+https://stackoverflow.com/questions/46120660,Packaging keras tokenizer/word index for use in google-cloud-ml-engine
+https://stackoverflow.com/questions/46551063,merge multiple keras max pooling layers
+https://stackoverflow.com/questions/50426349,"Input 0 is incompatible with layer conv2d_121: expected ndim=4, found ndim=5"
+https://stackoverflow.com/questions/49296099,Zero Jaccard accuracy in u-net implementation with keras
+https://stackoverflow.com/questions/48143222,Determining the values of the filter matrices in a CNN
+https://stackoverflow.com/questions/49596618,keras neural network giving float ouputs but i need boolean outputs
+https://stackoverflow.com/questions/50748986,Training LSTMs in Keras with time series of different length
+https://stackoverflow.com/questions/47736217,Clearing optimizer weights in keras
+https://stackoverflow.com/questions/51843149,Loading batches of images in Keras from pandas dataframe
+https://stackoverflow.com/questions/44832497,"After adding dropout, my neural network is overfitting even more than before. What's going on?"
+https://stackoverflow.com/questions/50837715,Conversion of a sequential model to a functional model with Keras 2.2.0
+https://stackoverflow.com/questions/51793737,Unable to set class weights for U-net in keras: `class_weight` not supported for 3+ dimensional targets
+https://stackoverflow.com/questions/50041558,is it possible to implement dynamic class weights in keras?
+https://stackoverflow.com/questions/50336110,"ValueError: Error when checking : expected dense_1_input to have shape (3,) but got array with shape (1,)"
+https://stackoverflow.com/questions/47643678,DQN not working Properly
+https://stackoverflow.com/questions/49213870,"High val_acc, but low accuracy in practice"
+https://stackoverflow.com/questions/47460383,Keras LSTM - Categorical Cross Entropy falls to 0
+https://stackoverflow.com/questions/49535561,ImageDataGenerator on a folder
+https://stackoverflow.com/questions/49252921,Training keras model; why mae decreases while mse increases?
+https://stackoverflow.com/questions/44620178,Keras - use part of the input at later stage in sequential model
+https://stackoverflow.com/questions/43257910,Get the accuracy of model on prediciton
+https://stackoverflow.com/questions/45989610,Setting up the input on an RNN in Keras
+https://stackoverflow.com/questions/44076942,feed LSTM in keras
+https://stackoverflow.com/questions/44946588,keras LSTM model input and output dimensions mismatch
+https://stackoverflow.com/questions/45488000,Keras: Embedding layer + LSTM: Time Dimension
+https://stackoverflow.com/questions/46193213,"Why does `K.cast` is used in `categorical_accuracy`, instead of `K.mean`?"
+https://stackoverflow.com/questions/50914860,Keras loss consistently low but accuracy starts high then drops
+https://stackoverflow.com/questions/45313870,Add categorical feature before the dense layer in Keras?
+https://stackoverflow.com/questions/44220446,ValueError: Can't handle mix of multilabel-indicator and binary Issue with GridSearchCV and KerasClassifier
+https://stackoverflow.com/questions/48634495,Keras in R: looking for function equivalent to plot_model in Python
+https://stackoverflow.com/questions/35658519,"Python/Keras/Theano - ValueError: Dimension mismatch; shapes are (98, 10), (98, 1)"
+https://stackoverflow.com/questions/46394574,keras predict memory swap increase indefinitely
+https://stackoverflow.com/questions/40479437,Meaning of function calling in Python?
+https://stackoverflow.com/questions/47797837,keras autoencoder Error when checking target
+https://stackoverflow.com/questions/41093122,Multiple matrix with vector in keras

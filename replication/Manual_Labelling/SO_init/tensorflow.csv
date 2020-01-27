@@ -1,0 +1,1001 @@
+Link,Title
+https://stackoverflow.com/questions/47068709,Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+https://stackoverflow.com/questions/37674306,What is the difference between 'SAME' and 'VALID' padding in tf.nn.max_pool of tensorflow?
+https://stackoverflow.com/questions/34240703,"What is logits, softmax and softmax_cross_entropy_with_logits?"
+https://stackoverflow.com/questions/33610685,"In TensorFlow, what is the difference between Session.run() and Tensor.eval()?"
+https://stackoverflow.com/questions/48720833,Could not find a version that satisfies the requirement tensorflow
+https://stackoverflow.com/questions/33648322,Tensorflow image reading & display
+https://stackoverflow.com/questions/42128830,TypeError: only integer scalar arrays can be converted to a scalar index
+https://stackoverflow.com/questions/36883949,"In Tensorflow, get the names of all the Tensors in a graph"
+https://stackoverflow.com/questions/33788989,Tensorflow: Using Adam optimizer
+https://stackoverflow.com/questions/35953210,Error running basic tensorflow example
+https://stackoverflow.com/questions/37085430,tf.shape() get wrong shape in tensorflow
+https://stackoverflow.com/questions/36007883,TensorFlow: Attempting to use uninitialized value in variable initialization
+https://stackoverflow.com/questions/33711556,Making predictions with a TensorFlow model
+https://stackoverflow.com/questions/33664651,import input_data MNIST tensorflow not working
+https://stackoverflow.com/questions/40430186,"TensorFlow ValueError: Cannot feed value of shape (64, 64, 3) for Tensor u'Placeholder:0', which has shape '(?, 64, 64, 3)'"
+https://stackoverflow.com/questions/37893755,Tensorflow set CUDA_VISIBLE_DEVICES within jupyter
+https://stackoverflow.com/questions/33681517,Tensorflow One Hot Encoder?
+https://stackoverflow.com/questions/33655731,Error while importing Tensorflow in Python 2.7 in Ubuntu 12.04. 'GLIBC_2.17 not found'
+https://stackoverflow.com/questions/34619177,What does tf.nn.conv2d do in tensorflow?
+https://stackoverflow.com/questions/43558707,Tensorflow: ImportError: libcusolver.so.8.0: cannot open shared object file: No such file or directory
+https://stackoverflow.com/questions/33765336,Remove nodes from graph or reset entire default graph
+https://stackoverflow.com/questions/42217059,tensorflow:AttributeError: 'module' object has no attribute 'mul'
+https://stackoverflow.com/questions/34870614,What does tf.nn.embedding_lookup function do?
+https://stackoverflow.com/questions/37061089,Trouble with TensorFlow in Jupyter Notebook
+https://stackoverflow.com/questions/36193553,Get the value of some weights in a model trained by TensorFlow
+https://stackoverflow.com/questions/33712178,Tensorflow NaN bug?
+https://stackoverflow.com/questions/35336648,List of tensor names in graph in Tensorflow
+https://stackoverflow.com/questions/41265035,"TensorFlow, why there are 3 files after saving the model?"
+https://stackoverflow.com/questions/36533723,Tensorflow get all variables in scope
+https://stackoverflow.com/questions/35677724,"TensorFlow, why was python the chosen language?"
+https://stackoverflow.com/questions/48340392,FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated
+https://stackoverflow.com/questions/35155655,Loss function for class imbalanced binary classifier in Tensor flow
+https://stackoverflow.com/questions/35687678,Using a pre-trained word embedding (word2vec or Glove) in TensorFlow
+https://stackoverflow.com/questions/41607155,You must feed a value for placeholder tensor 'Placeholder' with dtype float
+https://stackoverflow.com/questions/43134753,"TensorFlow wasn't compiled to use SSE (etc.) instructions, but these are available"
+https://stackoverflow.com/questions/34236252,Difference between np.mean and tf.reduce_mean in Numpy and Tensorflow?
+https://stackoverflow.com/questions/37312421,What's the difference between sparse_softmax_cross_entropy_with_logits and softmax_cross_entropy_with_logits?
+https://stackoverflow.com/questions/34340489,Tensorflow read images with labels
+https://stackoverflow.com/questions/34079787,Tensor with unspecified dimension in tensorflow
+https://stackoverflow.com/questions/33684657,Issue feeding a list into feed_dict in TensorFlow
+https://stackoverflow.com/questions/34987509,TensorFlow: Max of a tensor along an axis
+https://stackoverflow.com/questions/38545362,Tensorflow variable scope: reuse if variable exists
+https://stackoverflow.com/questions/36159194,TensorFlow: libcudart.so.7.5: cannot open shared object file: No such file or directory
+https://stackoverflow.com/questions/50622525,Which TensorFlow and CUDA version combinations are compatible?
+https://stackoverflow.com/questions/37337728,TensorFlow: InternalError: Blas SGEMM launch failed
+https://stackoverflow.com/questions/35365007,Tensorflow Precision / Recall / F1 score and Confusion matrix
+https://stackoverflow.com/questions/41482913,module' object has no attribute 'SummaryWriter'
+https://stackoverflow.com/questions/34982492,Restoring TensorFlow model
+https://stackoverflow.com/questions/41166681,What does global_step mean in Tensorflow?
+https://stackoverflow.com/questions/41338509,Tensorflow mean squared error loss function
+https://stackoverflow.com/questions/35164529,In TensorFlow is there any way to just initialize uninitialised variables?
+https://stackoverflow.com/questions/34642595,Tensorflow Strides Argument
+https://stackoverflow.com/questions/33622842,Error in python after 'import tensorflow': TypeError: __init__() got an unexpected keyword argument 'syntax'
+https://stackoverflow.com/questions/33646541,Tensorflow and Anaconda on Ubuntu?
+https://stackoverflow.com/questions/37340129,TensorFlow: training on my own image
+https://stackoverflow.com/questions/35277898,TensorFlow for binary classification
+https://stackoverflow.com/questions/47529792,No module named 'tqdm'
+https://stackoverflow.com/questions/34715055,Choosing between GeForce or Quadro GPUs to do machine learning via TensorFlow
+https://stackoverflow.com/questions/34192229,Efficient element-wise multiplication of a matrix and a vector in TensorFlow
+https://stackoverflow.com/questions/38666040,TensorFlow: AttributeError: 'Tensor' object has no attribute 'shape'
+https://stackoverflow.com/questions/34293714,Can I measure the execution time of individual operations with TensorFlow?
+https://stackoverflow.com/questions/38947658,TensorFlow saving into/loading a graph from a file
+https://stackoverflow.com/questions/37098546,Difference between Variable and get_variable in TensorFlow
+https://stackoverflow.com/questions/35298326,freeze some variables/scopes in tensorflow: stop_gradient vs passing variables to minimize
+https://stackoverflow.com/questions/41813665,"Tensorflow Slim: TypeError: Expected int32, got list containing Tensors of type '_Message' instead"
+https://stackoverflow.com/questions/38189119,Simple way to visualize a TensorFlow graph in Jupyter?
+https://stackoverflow.com/questions/35725513,TensorFlow: cast a float64 tensor to float32
+https://stackoverflow.com/questions/34156639,Tensorflow (python): ValueError: setting an array element with a sequence in train_step.run(...)
+https://stackoverflow.com/questions/38235555,Tensorflow - matmul of input matrix with batch data
+https://stackoverflow.com/questions/34877523,"In TensorFlow, what is tf.identity used for?"
+https://stackoverflow.com/questions/41567895,Will scikit-learn utilize GPU?
+https://stackoverflow.com/questions/35673874,Tensorflow error shape Tensorshape() must have rank 1
+https://stackoverflow.com/questions/39691902,Ordering of batch normalization and dropout?
+https://stackoverflow.com/questions/38399609,tensorflow deep neural network for regression always predict same results in one batch
+https://stackoverflow.com/questions/37697747,TypeError: 'Tensor' object does not support item assignment in TensorFlow
+https://stackoverflow.com/questions/46568913,Tensorflow import error: No module named 'tensorflow'
+https://stackoverflow.com/questions/36668467,Change default GPU in TensorFlow
+https://stackoverflow.com/questions/39114832,Tensorflow TypeError: Fetch argument None has invalid type <type 'NoneType'>?
+https://stackoverflow.com/questions/42785026,tf.nn.conv2d vs tf.layers.conv2d
+https://stackoverflow.com/questions/39076388,"Tensorflow Deep MNIST: Resource exhausted: OOM when allocating tensor with shape[10000,32,28,28]"
+https://stackoverflow.com/questions/43942185,Failed to load the native TensorFlow runtime. Python 3.5.2
+https://stackoverflow.com/questions/36281129,No variable to save error in Tensorflow
+https://stackoverflow.com/questions/33656551,Unable to import Tensorflow No module named copyreg
+https://stackoverflow.com/questions/36162180,Gradient Descent vs Adagrad vs Momentum in TensorFlow
+https://stackoverflow.com/questions/40368697,"Where does next_batch in the TensorFlow tutorial batch_xs, batch_ys = mnist.train.next_batch(100) come from?"
+https://stackoverflow.com/questions/34694965,Image recognition using TensorFlow
+https://stackoverflow.com/questions/35361467,TensorFlow: numpy.repeat() alternative
+https://stackoverflow.com/questions/33616094,Is Tensorflow compatible with a Windows workflow?
+https://stackoverflow.com/questions/33634525,TensorFlow on 32-bit Linux?
+https://stackoverflow.com/questions/41066244,Tensorflow: 'module' object has no attribute 'scalar_summary'
+https://stackoverflow.com/questions/33833818,Printing the loss during TensorFlow training
+https://stackoverflow.com/questions/37901047,What is num_units in tensorflow BasicLSTMCell?
+https://stackoverflow.com/questions/38987466,eval() and run() in tensorflow
+https://stackoverflow.com/questions/44059934,using Tensorflow with Anaconda and PyCharm on Windows
+https://stackoverflow.com/questions/38292760,TensorFlow - introducing both L2 regularization and dropout into the network. Does it makes any sense?
+https://stackoverflow.com/questions/42326748,"tensorflow on GPU: no known devices, despite cuda's deviceQuery returning a PASS result"
+https://stackoverflow.com/questions/42315202,Understanding TensorBoard (weight) histograms
+https://stackoverflow.com/questions/41791469,What's the difference between tf.Session() and tf.InteractiveSession()?
+https://stackoverflow.com/questions/34685947,Adjust Single Value within Tensor -- TensorFlow
+https://stackoverflow.com/questions/38939081,Saving model in tensorflow
+https://stackoverflow.com/questions/42134360,"Tensorflow - ValueError: Parent directory of trained_variables.ckpt doesn't exist, can't save"
+https://stackoverflow.com/questions/38114534,Basic 1d convolution in tensorflow
+https://stackoverflow.com/questions/43577923,Cannot import Tensorflow for GPU on Windows 10
+https://stackoverflow.com/questions/43610527,Tensorflow model for OCR
+https://stackoverflow.com/questions/34230613,Display image of graph in TensorFlow?
+https://stackoverflow.com/questions/34194151,Best way to flatten a 2D tensor containing a vector in TensorFlow?
+https://stackoverflow.com/questions/41831214,What is SYCL 1.2?
+https://stackoverflow.com/questions/40785224,Tensorflow: Cannot interpret feed_dict key as Tensor
+https://stackoverflow.com/questions/40941015,TensorFlow on Windows: not a supported wheel on this platform error
+https://stackoverflow.com/questions/42521400,Calculating Cross Entropy in TensorFlow
+https://stackoverflow.com/questions/35387109,Validation and Test with TensorFlow
+https://stackoverflow.com/questions/44080677,No Module Named '_pywrap_tensorflow_internal'
+https://stackoverflow.com/questions/43327668,Looping over a tensor
+https://stackoverflow.com/questions/33802336,Visualizing output of convolutional layer in tensorflow
+https://stackoverflow.com/questions/44560549,Unbalanced data and weighted cross entropy
+https://stackoverflow.com/questions/33974231,Tensorflow error using my own data
+https://stackoverflow.com/questions/37128652,Creating log directory in tensorboard
+https://stackoverflow.com/questions/35842598,TensorFlow: using a tensor to index another tensor
+https://stackoverflow.com/questions/33720645,Why is this TensorFlow implementation vastly less successful than Matlab's NN?
+https://stackoverflow.com/questions/34175174,Extract features using pre-trained (Tensorflow) CNN
+https://stackoverflow.com/questions/44516609,"Tensorflow : What is the relationship between .ckpt file and .ckpt.meta and .ckpt.index , and .pb file"
+https://stackoverflow.com/questions/35451948,Clarification on tf.Tensor.set_shape()
+https://stackoverflow.com/questions/37433321,"TensorFlow/TFLearn: ValueError: Cannot feed value of shape (64,) for Tensor u'target/Y:0', which has shape '(?, 10)'"
+https://stackoverflow.com/questions/35382409,Tensorflow error when calculating cross entropy loss
+https://stackoverflow.com/questions/41258391,TensorBoard Embedding Example?
+https://stackoverflow.com/questions/35488717,Confused about conv2d_transpose
+https://stackoverflow.com/questions/39758094,Clearing Tensorflow GPU memory after model execution
+https://stackoverflow.com/questions/42495930,Tensorflow OOM on GPU
+https://stackoverflow.com/questions/33637208,Getting: tensorflow is not a supported wheel on this platform
+https://stackoverflow.com/questions/37326002,Is it possible to make a trainable variable not trainable?
+https://stackoverflow.com/questions/44232566,Add L2 regularization when using high level tf.layers
+https://stackoverflow.com/questions/35400065,Multilabel Text Classification using TensorFlow
+https://stackoverflow.com/questions/40904979,The print of string constant is always attached with 'b' inTensorFlow
+https://stackoverflow.com/questions/38626435,Tensorflow ValueError: No variables to save from
+https://stackoverflow.com/questions/37383812,"TensorFlow, 'module' object has no attribute 'placeholder'"
+https://stackoverflow.com/questions/34598371,Count number of True values in boolean Tensor
+https://stackoverflow.com/questions/49094597,Illegal instruction (core dumped) after running import tensorflow
+https://stackoverflow.com/questions/40511562,TensorFlow 'module' object has no attribute 'global_variables_initializer'
+https://stackoverflow.com/questions/40000518,Is Intel based graphic card compatible with tensorflow/GPU?
+https://stackoverflow.com/questions/42616625,ValueError: Tensor must be from the same graph as Tensor with Bidirectinal RNN in Tensorflow
+https://stackoverflow.com/questions/36349049,overcome Graphdef cannot be larger than 2GB in tensorflow
+https://stackoverflow.com/questions/46444018,"Meaning of buffer_size in Dataset.map , Dataset.prefetch and Dataset.shuffle"
+https://stackoverflow.com/questions/44624648,TensorFlow: “Attempting to use uninitialized value” in variable initialization
+https://stackoverflow.com/questions/39373230,What does TensorFlow's `conv2d_transpose()` operation do?
+https://stackoverflow.com/questions/42816124,steps vs num_epochs in tensorflow getting started tutorial
+https://stackoverflow.com/questions/41704484,What is difference between tf.truncated_normal and tf.random_normal?
+https://stackoverflow.com/questions/39517431,Should we do learningrate decay for adam optimizer
+https://stackoverflow.com/questions/48014769,pip3: command not found
+https://stackoverflow.com/questions/41859605,Split tensor into training and test sets
+https://stackoverflow.com/questions/42353676,Display MNIST image using matplotlib
+https://stackoverflow.com/questions/37921781,What does opt.apply_gradients() do in TensorFlow?
+https://stackoverflow.com/questions/34141430,Tensorflow Tensor reshape and pad with zeros
+https://stackoverflow.com/questions/51299194,ImportError: cannot import name 'abs'
+https://stackoverflow.com/questions/44973184,Train Tensorflow Object Detection on own dataset
+https://stackoverflow.com/questions/39054414,Tensorflow: Using tf.slice to split the input
+https://stackoverflow.com/questions/37479119,Doing pairwise distance computation with TensorFlow
+https://stackoverflow.com/questions/39354566,What is the equivalent of np.std() in TensorFlow?
+https://stackoverflow.com/questions/34519423,TensorFlow error: logits and labels must be same size
+https://stackoverflow.com/questions/33785936,TensorFlow Error found in Tutorial
+https://stackoverflow.com/questions/41890549,Tensorflow cannot open libcuda.so.1
+https://stackoverflow.com/questions/40601975,Tensorflow Assign requires shapes of both tensors to match. lhs shape= [20] rhs shape= [48]
+https://stackoverflow.com/questions/45307072,using leaky relu in Tensorflow
+https://stackoverflow.com/questions/34229140,Choosing from different cost function and activation function of a neural network
+https://stackoverflow.com/questions/43010339,"Python / Tensorflow - Input to reshape is a tensor with 92416 values, but the requested shape requires a multiple of 2304"
+https://stackoverflow.com/questions/37568980,tensorflow cifar10_eval.py error:RuntimeError: Attempted to use a closed Session.RuntimeError: Attempted to use a closed Session
+https://stackoverflow.com/questions/38056110,"InvalidArgumentError: You must feed a value for placeholder tensor 'Placeholder' with dtype float and shape [1000,625]"
+https://stackoverflow.com/questions/38287772,CBOW v.s. skip-gram: why invert context and target words?
+https://stackoverflow.com/questions/37900780,In tensorflow what is the difference between tf.add and operator (+)?
+https://stackoverflow.com/questions/41673889,TensorFlow: does tf.train.batch automatically load the next batch when the batch has finished training?
+https://stackoverflow.com/questions/44873273,What do the options in ConfigProto like allow_soft_placement and log_device_placement mean?
+https://stackoverflow.com/questions/37304461,TensorFlow - Importing data from a TensorBoard TFEvent file?
+https://stackoverflow.com/questions/34908033,ValueError when performing matmul with Tensorflow
+https://stackoverflow.com/questions/34519627,sum over a list of tensors in tensorflow
+https://stackoverflow.com/questions/40880925,ImportError: No module named 'tflearn'
+https://stackoverflow.com/questions/46494160,from utils import label_map_util Import Error: No module named utils
+https://stackoverflow.com/questions/41439254,What are the differences between tf.initialize_all_variables() and tf.global_variables_initializer()
+https://stackoverflow.com/questions/39734146,What's the difference between tensorflow dynamic_rnn and rnn?
+https://stackoverflow.com/questions/37267584,Tensorflow 'feed_dict': using same symbol for key-value pair got 'TypeError: Cannot interpret feed_dict key as Tensor'
+https://stackoverflow.com/questions/38212205,Swap tensor axes in tensorflow
+https://stackoverflow.com/questions/38094217,TensorFlow: argmax (-min)
+https://stackoverflow.com/questions/34687761,Efficiently grab gradients from TensorFlow?
+https://stackoverflow.com/questions/39008821,Tensorflow: When use tf.expand_dims?
+https://stackoverflow.com/questions/35148121,Assign op in TensorFlow: what is the return value?
+https://stackoverflow.com/questions/34427209,Save Tensorflow graph for viewing in Tensorboard without summary operations
+https://stackoverflow.com/questions/35678812,reduce_sum by certain dimension
+https://stackoverflow.com/questions/38241410,TensorFlow: Remember LSTM state for next batch (stateful LSTM)
+https://stackoverflow.com/questions/47115946,Tensor is not an element of this graph
+https://stackoverflow.com/questions/41621071,Restore subset of variables in Tensorflow
+https://stackoverflow.com/questions/35735162,TensorFlow (GPU) libcudart.so.7.5 error -- cannot open shared object file
+https://stackoverflow.com/questions/38441589,Is RNN initial state reset for subsequent mini-batches?
+https://stackoverflow.com/questions/37374454,Machine Learning (tensorflow / sklearn) in Django?
+https://stackoverflow.com/questions/44433438,Understanding tf.global_variables_initializer
+https://stackoverflow.com/questions/45063396,Python anaconda access denied
+https://stackoverflow.com/questions/45095820,tensorboard: command not found
+https://stackoverflow.com/questions/46840496,upgrade tensorflow on windows
+https://stackoverflow.com/questions/44912297,Are tf.layers.dense() and tf.contrib.layers.fully_connected() interchangeable?
+https://stackoverflow.com/questions/48993004,Neural Network: Mysterious ReLu
+https://stackoverflow.com/questions/34361030,TensorFlow create dataset from numpy array
+https://stackoverflow.com/questions/44822999,"TensorFlow TypeError: Value passed to parameter input has DataType uint8 not in list of allowed values: float16, float32"
+https://stackoverflow.com/questions/39395198,Configuring Tensorflow to use all CPU's
+https://stackoverflow.com/questions/34389945,Changing the number of threads in TensorFlow on Cifar10
+https://stackoverflow.com/questions/47296969,"ValueError: Variable rnn/basic_rnn_cell/kernel already exists, disallowed. Did you mean to set reuse=True or reuse=tf.AUTO_REUSE in VarScope?"
+https://stackoverflow.com/questions/42311007,AttributeError: 'tensorflow.python.ops.rnn' has no attribute 'rnn'
+https://stackoverflow.com/questions/34775522,Tensorflow multiple sessions with multiple GPUs
+https://stackoverflow.com/questions/49901806,Tensorflow importing mnist warnings
+https://stackoverflow.com/questions/43708616,TensorFlow Inference
+https://stackoverflow.com/questions/36728239,Bilinear upsample in tensorflow?
+https://stackoverflow.com/questions/36195454,What is the TensorFlow checkpoint meta file?
+https://stackoverflow.com/questions/38306330,"TypeError: Fetch argument has invalid type float32, must be a string or Tensor"
+https://stackoverflow.com/questions/36585071,"Cannot feed value of shape (500,) for Tensor 'x_17:0', which has shape '(?, 500)'"
+https://stackoverflow.com/questions/37950525,Using deep learning models from TensorFlow in other language environments
+https://stackoverflow.com/questions/41783136,Tensorflow batch size in input placholder
+https://stackoverflow.com/questions/42858114,TypeError: run() missing 1 required positional argument: 'fetches' on Session.run()
+https://stackoverflow.com/questions/37689423,Convert between NHWC and NCHW in TensorFlow
+https://stackoverflow.com/questions/35295191,Tensorflow embedding_lookup
+https://stackoverflow.com/questions/44552585,Prevent TensorFlow from accessing the GPU?
+https://stackoverflow.com/questions/33648737,Is TensorFlow suitable for Recommendation Systems
+https://stackoverflow.com/questions/47583501,tf.multiply vs tf.matmul to calculate the dot product
+https://stackoverflow.com/questions/34500052,tensorflow: saving and restoring session
+https://stackoverflow.com/questions/37063952,Confused by the behavior of `tf.cond`
+https://stackoverflow.com/questions/40661684,Tensorflow vocabularyprocessor
+https://stackoverflow.com/questions/34834714,Does TensorFlow by default use all available GPUs in the machine?
+https://stackoverflow.com/questions/46066850,Understanding the ResourceExhaustedError: OOM when allocating tensor with shape
+https://stackoverflow.com/questions/40318812,Tensorflow RNN weight matrices initialization
+https://stackoverflow.com/questions/35545798,keep_prob in TensorFlow MNIST tutorial
+https://stackoverflow.com/questions/41414867,Tensorflow: You must feed a value for placeholder tensor 'Placeholder' with dtype float [but the value is a float]
+https://stackoverflow.com/questions/45693020,Is tf.layers.dense a single layer?
+https://stackoverflow.com/questions/47113472,Tensorboard Error: No dashboards are active for current data set
+https://stackoverflow.com/questions/41402409,Tensorflow doesn't seem to see my gpu
+https://stackoverflow.com/questions/38243194,Tensorflow: feed dict error: You must feed a value for placeholder tensor
+https://stackoverflow.com/questions/47241010,TypeError: 'Tensor' object is not iterable error with tensorflow Estimator
+https://stackoverflow.com/questions/34597316,Why input is scaled in tf.nn.dropout in tensorflow?
+https://stackoverflow.com/questions/40299704,Resizing images for training in TensorFlow
+https://stackoverflow.com/questions/42756503,Failed to load the native TensorFlow runtime. Reason : Image not found. What am I doing wrong?
+https://stackoverflow.com/questions/36990476,Getting the current learning rate from a tf.train.AdamOptimizer
+https://stackoverflow.com/questions/43960425,Downgrading from Python 3.6 to Python 3.5.2 Not Working
+https://stackoverflow.com/questions/49919300,Tensorflow vs OpenCV
+https://stackoverflow.com/questions/37866877,Pycharm anaconda import tensor flow library issue
+https://stackoverflow.com/questions/41244421,Linear vs nonlinear neural network?
+https://stackoverflow.com/questions/41921746,Tensorflow VarLenFeature vs FixedLenFeature
+https://stackoverflow.com/questions/36078411,TensorFlow: Are my logits in the right format for cross entropy function?
+https://stackoverflow.com/questions/45353389,Printing extra training metrics with Tensorflow Estimator
+https://stackoverflow.com/questions/37376861,what does the tf.nn.lrn() method do?
+https://stackoverflow.com/questions/41070330,Is it possible to use TensorFlow C++ API on Windows?
+https://stackoverflow.com/questions/35119109,tensorflow scalar summary tags name exception
+https://stackoverflow.com/questions/44993098,ImportError: libcusolver.so.8.0: cannot open shared object file: No such file or directory
+https://stackoverflow.com/questions/38059247,Using Tensorflow's Connectionist Temporal Classification (CTC) implementation
+https://stackoverflow.com/questions/39305174,"what does x = tf.placeholder(tf.float32, [None, 784]) means?"
+https://stackoverflow.com/questions/44855603,TypeError: can't pickle _thread.lock objects in Seq2Seq
+https://stackoverflow.com/questions/33836728,View Tensorboard on Docker on Google Cloud
+https://stackoverflow.com/questions/38836269,Does TensorFlow view all CPUs of one machine as ONE device?
+https://stackoverflow.com/questions/38601452,the usages of ksize in tf.nn.max_pool
+https://stackoverflow.com/questions/41117740,Tensorflow crashes with CUBLAS_STATUS_ALLOC_FAILED
+https://stackoverflow.com/questions/41990014,load multiple models in Tensorflow
+https://stackoverflow.com/questions/35394103,Initializing tensorflow Variable with an array larger than 2GB
+https://stackoverflow.com/questions/36252540,Tensorflow apply op to each element of a 2d tensor
+https://stackoverflow.com/questions/42456461,Tensorflow: Not a supported wheel on this platform
+https://stackoverflow.com/questions/41475180,Understanding `tf.nn.nce_loss()` in tensorflow
+https://stackoverflow.com/questions/34718736,Dynamic size for tf.zeros() (for use with placeholders with None dimensions)
+https://stackoverflow.com/questions/34030140,Is sparse tensor multiplication implemented in TensorFlow?
+https://stackoverflow.com/questions/35661677,TensorFlow: generating a random constant
+https://stackoverflow.com/questions/35740594,Layer names for pretrained inception v3 model (tensorflow)
+https://stackoverflow.com/questions/45315545,replicate a row tensor using tf.tile?
+https://stackoverflow.com/questions/35769944,Manipulating matrix elements in tensorflow
+https://stackoverflow.com/questions/50338968,ObjectDetecionAPI TypeError: __new__() got an unexpected keyword argument 'serialized_options'
+https://stackoverflow.com/questions/37897934,TensorFlow Embedding Lookup
+https://stackoverflow.com/questions/41764330,Tensorflow GPU - Spyder
+https://stackoverflow.com/questions/39051451,SSIM / MS-SSIM for TensorFlow
+https://stackoverflow.com/questions/39582703,Using pre-trained inception_resnet_v2 with Tensorflow
+https://stackoverflow.com/questions/44906317,What are possible values for data_augmentation_options in the TensorFlow Object Detection pipeline configuration?
+https://stackoverflow.com/questions/34592172,About names of variable scope in tensorflow
+https://stackoverflow.com/questions/38829641,tensorflow.train.import_meta_graph does not work?
+https://stackoverflow.com/questions/48060769,python : cannot import tensorflow-gpu
+https://stackoverflow.com/questions/44395547,tensorflow: what's the difference between tf.nn.dropout and tf.layers.dropout
+https://stackoverflow.com/questions/37450620,TensorFlow image classification
+https://stackoverflow.com/questions/39324520,Understanding Tensorflow LSTM Input shape
+https://stackoverflow.com/questions/42481938,AttributeError: 'module' object has no attribute 'merge_all_summaries'
+https://stackoverflow.com/questions/43504248,What does relu stand for in tf.nn.relu?
+https://stackoverflow.com/questions/38710339,Library not loaded: @rpath/libcudart.7.5.dylib' TensorFlow Error on Mac
+https://stackoverflow.com/questions/36615004,Tensorflow visualizer Tensorboard not working under Anaconda
+https://stackoverflow.com/questions/37659538,Custom padding for convolutions in TensorFlow
+https://stackoverflow.com/questions/35241251,"In Tensorflow, what is the difference between sampled_softmax_loss and softmax_cross_entropy_with_logits"
+https://stackoverflow.com/questions/37009647,Compute pairwise distance in a batch without replicating tensor in Tensorflow?
+https://stackoverflow.com/questions/44299666,When global_variables_initializer() is actually required
+https://stackoverflow.com/questions/34883885,TensorFlow with Eclipse
+https://stackoverflow.com/questions/36223157,Set weight and bias tensors of tensorflow conv2d operation
+https://stackoverflow.com/questions/46146757,Very low GPU usage during training in Tensorflow
+https://stackoverflow.com/questions/36548736,TensorFlow: Unpooling
+https://stackoverflow.com/questions/37350131,What is the default variable initializer in Tensorflow?
+https://stackoverflow.com/questions/37746670,"Tensorflow, multi label accuracy calculation"
+https://stackoverflow.com/questions/34484148,Feeding image data in tensorflow for transfer learning
+https://stackoverflow.com/questions/35289773,Cannot convert a partially converted tensor in TensorFlow
+https://stackoverflow.com/questions/42575195,ERROR: Failed to load the native TensorFlow runtime in Python 2.7
+https://stackoverflow.com/questions/38678371,Tensorflow Enqueue operation was cancelled
+https://stackoverflow.com/questions/41174769,additive Gaussian noise in Tensorflow
+https://stackoverflow.com/questions/34662443,Fully-connected layer weight dimensions in TensorFlow ConvNet
+https://stackoverflow.com/questions/34002591,Tensorflow slicing based on variable
+https://stackoverflow.com/questions/35049379,Training on imbalanced data using TensorFlow
+https://stackoverflow.com/questions/38819576,Multiple sessions and graphs in Tensorflow (in the same process)
+https://stackoverflow.com/questions/42217532,"TensorFlow version 1.0.0-rc2 on Windows: OpKernel ('op: BestSplits device_type: CPU') for unknown op: BestSplits with test code"""
+https://stackoverflow.com/questions/33671372,ImportError: libcudart.so.7.0: cannot open shared object file: No such file or directory
+https://stackoverflow.com/questions/42095625,What does the function control_dependencies do?
+https://stackoverflow.com/questions/35512046,Requesting multiple values from graph at same time
+https://stackoverflow.com/questions/47220595,Why the 6 in relu6?
+https://stackoverflow.com/questions/41008524,TensorFlow import error: no module named _pywrap_tensorflow
+https://stackoverflow.com/questions/38236175,get the size of a variable batch dimension
+https://stackoverflow.com/questions/40705710,Cannot get predictions of tensorflow DNNClassifier
+https://stackoverflow.com/questions/43263933,tensorflow: check if a scalar boolean tensor is True
+https://stackoverflow.com/questions/43003369,Can we use Yolo to detect and recognize text in a image
+https://stackoverflow.com/questions/33944683,Tensorflow map operation for tensor?
+https://stackoverflow.com/questions/44745855,TensorFlow Variables and Constants
+https://stackoverflow.com/questions/37671974,Tensorflow negative sampling
+https://stackoverflow.com/questions/39045797,Conditional assignment of tensor values in TensorFlow
+https://stackoverflow.com/questions/37146614,TensorBoard - Plot training and validation losses on the same graph?
+https://stackoverflow.com/questions/42877989,What is a loss function in simple words?
+https://stackoverflow.com/questions/48477909,Tensorflow import error
+https://stackoverflow.com/questions/37842913,Tensorflow: Confusion regarding the adam optimizer
+https://stackoverflow.com/questions/38647353,Tensorflow: Convert Tensor to numpy array WITHOUT .eval() or sess.run()
+https://stackoverflow.com/questions/34112202,TensorFlow checkpoint save and read
+https://stackoverflow.com/questions/35884045,Creating a float64 Variable in tensorflow
+https://stackoverflow.com/questions/42102174,"Tensorflow InvalidArgumentError (see above for traceback): Incompatible shapes: [10000,10] vs. [10000]"
+https://stackoverflow.com/questions/38157794,Tensorflow minibatch training
+https://stackoverflow.com/questions/40731433,Understanding tf.extract_image_patches for extracting patches from an image
+https://stackoverflow.com/questions/42241038,TensorFlow - Text recognition in image
+https://stackoverflow.com/questions/44802939,Hyperparameter Tuning of Tensorflow Model
+https://stackoverflow.com/questions/34477889,Holding variables constant during optimizer
+https://stackoverflow.com/questions/42499592,ResourceExhaustedError :OOM when allocating tensor with shape []
+https://stackoverflow.com/questions/44238154,What is the difference between Luong Attention and Bahdanau Attention?
+https://stackoverflow.com/questions/48054531,RuntimeError: module compiled against API version 0xc but this version of numpy is 0xb
+https://stackoverflow.com/questions/48001759,What is right batch normalization function in Tensorflow?
+https://stackoverflow.com/questions/47765595,Tensorflow: Attempting to use uninitialized value beta1_power
+https://stackoverflow.com/questions/34235557,What is the purpose of graph collections in TensorFlow?
+https://stackoverflow.com/questions/39352865,Resetting default graph does not remove variables
+https://stackoverflow.com/questions/37448557,Why are my TensorFlow network weights and costs NaN when I use RELU activations?
+https://stackoverflow.com/questions/38947754,Re-initialize variables in Tensorflow
+https://stackoverflow.com/questions/48915003,Get the bounding box coordinates in the TensorFlow object detection API tutorial
+https://stackoverflow.com/questions/37571514,Regularization for LSTM in tensorflow
+https://stackoverflow.com/questions/45517940,What's the difference between tf.cond and if-else?
+https://stackoverflow.com/questions/42862300,TensorFlow reuse variable with tf.layers.conv2d
+https://stackoverflow.com/questions/42823700,ValueError: Argument must be a dense tensor - Python and TensorFlow
+https://stackoverflow.com/questions/38837309,TensorFlow: Saver has 5 models limit
+https://stackoverflow.com/questions/36110834,What's difference between tf.sub and just minus operation in tensorflow?
+https://stackoverflow.com/questions/41534593,Why would I ever use tf.concat instead of tf.stack?
+https://stackoverflow.com/questions/49656725,ImportError: libcudnn.so.7: cannot open shared object file: No such file or directory
+https://stackoverflow.com/questions/38043692,Tensorflow: empty computational graph & garbage collection
+https://stackoverflow.com/questions/44774234,Why tensorflow uses channel-last ordering instead of row-major?
+https://stackoverflow.com/questions/37668485,Create an int list feature to save as tfrecord in tensorflow?
+https://stackoverflow.com/questions/41123879,numpy random choice in Tensorflow
+https://stackoverflow.com/questions/35582875,"Unable to start TensorFlow within Docker, on Windows"
+https://stackoverflow.com/questions/39614938,Why do we need TensorFlow tf.Graph?
+https://stackoverflow.com/questions/33722235,Tensorflow model zoo?
+https://stackoverflow.com/questions/34128104,tensorflow creating mask of varied lengths
+https://stackoverflow.com/questions/38175673,CRITICAL: tensorflow:Category has no images - validation
+https://stackoverflow.com/questions/41380126,What does `tf.strided_slice()` do?
+https://stackoverflow.com/questions/45966301,"TensorFlow Cannot feed value of shape (100, 784) for Tensor 'Placeholder:0'"
+https://stackoverflow.com/questions/48247921,Tensorflow Object Detection API on Windows - error ModuleNotFoundError: No module named 'utils'
+https://stackoverflow.com/questions/46893824,Do not use tf.reset_default_graph() to clear nested graphs
+https://stackoverflow.com/questions/41369062,Tensorflow fail with Unable to get element from the feed as bytes. when attempting to restore checkpoint
+https://stackoverflow.com/questions/38376478,Changing the scale of a tensor in tensorflow
+https://stackoverflow.com/questions/41851657,TensorFlow You must feed a value for placeholder tensor 'Placeholder_2' with dtype float
+https://stackoverflow.com/questions/38000180,Save tensorflow model to file
+https://stackoverflow.com/questions/35351760,TF save/restore graph fails at tf.GraphDef.ParseFromString()
+https://stackoverflow.com/questions/33641799,Why does TensorFlow example fail when increasing batch size?
+https://stackoverflow.com/questions/39238057,TypeError: argument of type 'float' is not iterable
+https://stackoverflow.com/questions/41835789,tensorflow ValueError: Dimension 0 in both shapes must be equal
+https://stackoverflow.com/questions/33625824,ImportError: No module named core.framework.graph_pb2
+https://stackoverflow.com/questions/45017965,Using tf.tile to replicate a tensor N times
+https://stackoverflow.com/questions/44755413,"Tensorflow,assign value to variable"
+https://stackoverflow.com/questions/44280135,TensorFlow: Is there a way to convert a list with None type to a Tensor?
+https://stackoverflow.com/questions/49545142,ModuleNotFoundError: No module named 'utils'
+https://stackoverflow.com/questions/33702251,tensorflow loss minimization type error
+https://stackoverflow.com/questions/40442098,Saving and Restoring a trained LSTM in Tensor Flow
+https://stackoverflow.com/questions/35853483,tensorflow constant with variable size
+https://stackoverflow.com/questions/38910198,What is a local variable in tensorflow?
+https://stackoverflow.com/questions/36041171,TensorFlow concat a variable-sized placeholder with a vector
+https://stackoverflow.com/questions/40866675,Implementation difference between TensorFlow Variable and TensorFlow Tensor
+https://stackoverflow.com/questions/36286594,Predicting the next word using the LSTM ptb model tensorflow example
+https://stackoverflow.com/questions/44615147,ValueError: Trying to share variable rnn/multi_rnn_cell/cell_0/basic_lstm_cell/kernel
+https://stackoverflow.com/questions/41789133,What are c_state and m_state in Tensorflow LSTM?
+https://stackoverflow.com/questions/43192809,LSTMStateTuple vs cell.zero_state() for RNN in Tensorflow
+https://stackoverflow.com/questions/40273109,Convert python opencv mat image to tensorflow image data
+https://stackoverflow.com/questions/35564253,tensorflow element-wise matrix multiplication
+https://stackoverflow.com/questions/42224327,"OutOfRangeError (see above for traceback): FIFOQueue '_1_batch/fifo_queue' is closed and has insufficient elements (requested 32, current size 0)"
+https://stackoverflow.com/questions/41821502,Zero initialiser for biases using get_variable in tensorflow
+https://stackoverflow.com/questions/40472139,Obtaining total number of records from .tfrecords file in Tensorflow
+https://stackoverflow.com/questions/45175469,TypeError: concat() got multiple values for argument 'axis'
+https://stackoverflow.com/questions/37092037,Tensorflow: What does tf.nn.separable_conv2d do?
+https://stackoverflow.com/questions/38765676,"invalid type, must be a string or Tensor [TensorFlow]"
+https://stackoverflow.com/questions/42327543,"Adam optimizer goes haywire after 200k batches, training loss grows"
+https://stackoverflow.com/questions/34889605,Running a Tensorflow model on Android
+https://stackoverflow.com/questions/38706227,Efficent way in TensorFlow to subtract mean and divide by standard deivation for each row
+https://stackoverflow.com/questions/33659424,TensorFlow MNIST example not running with fully_connected_feed.py
+https://stackoverflow.com/questions/44135538,tensorflow using 2 GPU at the same time
+https://stackoverflow.com/questions/37159070,Multiple Linear Regression Model by using Tensorflow
+https://stackoverflow.com/questions/43676638,"ValueError: Cannot feed value of shape (64,) for Tensor 'Placeholder_1:0', which has shape '(?, 10)'"
+https://stackoverflow.com/questions/41396970,Tensorflow 3 channel order of color inputs
+https://stackoverflow.com/questions/46223643,No module named 'scipy'
+https://stackoverflow.com/questions/46030481,ImportError: No module named 'nets'
+https://stackoverflow.com/questions/36127436,Tensorflow predicts always the same result
+https://stackoverflow.com/questions/37454932,"Tensorflow, train_step feed incorrect"
+https://stackoverflow.com/questions/43186797,Using Tensorflow as environment of Anaconda
+https://stackoverflow.com/questions/34235225,Is it possible to modify an existing TensorFlow computation graph?
+https://stackoverflow.com/questions/42356396,ImportError: No module named 'matplotlib' -- Using Anaconda tensorflow environment
+https://stackoverflow.com/questions/33700049,Get the diagonal of a matrix in TensorFlow
+https://stackoverflow.com/questions/42896605,Tensorflow - About mnist.train.next_batch()
+https://stackoverflow.com/questions/34204551,Run Tensorflow unit tests
+https://stackoverflow.com/questions/37924071,Tensorflow: Writing an Op in Python
+https://stackoverflow.com/questions/41402332,Tensorflow create a tfrecords file from csv
+https://stackoverflow.com/questions/34084050,Using string labels in Tensorflow
+https://stackoverflow.com/questions/33651810,The minimum required Cuda capability is 3.5
+https://stackoverflow.com/questions/34570177,Tensorflow: List of Tensors for Cost
+https://stackoverflow.com/questions/35226198,Is this one-hot encoding in TensorFlow fast? Or flawed for any reason?
+https://stackoverflow.com/questions/35824798,Tensorflow error using tf.image.random : 'numpy.ndarray' object has no attribute 'get_shape'
+https://stackoverflow.com/questions/34822219,Tensorflow Incompatible Shapes Error in Tutorial
+https://stackoverflow.com/questions/42217320,Restore variables that are a subset of new model in Tensorflow?
+https://stackoverflow.com/questions/37770911,Tensorflow: Creating a graph in a class and running it outside
+https://stackoverflow.com/questions/42425750,Shape must have rank 2 but it is rank 1
+https://stackoverflow.com/questions/45817355,AttributeError: module 'tensorflow.python.estimator.estimator_lib' has no attribute 'LinearRegressor'
+https://stackoverflow.com/questions/42846020,importerror no module named tensorflow windows
+https://stackoverflow.com/questions/38319898,tensorflow neural net with continuous / floating point output?
+https://stackoverflow.com/questions/47059848,difference between Tensorflow's Graph and GraphDef
+https://stackoverflow.com/questions/40784941,Sorting an Array in TensorFlow
+https://stackoverflow.com/questions/36334371,Tensorflow: Batching input queues then changing the queue source
+https://stackoverflow.com/questions/36080445,TensorFlow in_top_k evaluation input argumants
+https://stackoverflow.com/questions/34419645,Asynchronous computation in TensorFlow
+https://stackoverflow.com/questions/38920240,TensorFlow image operations for batches
+https://stackoverflow.com/questions/37065512,Fully Convolution Net (FCN) on Tensorflow
+https://stackoverflow.com/questions/45994346,"Tensorflow: Saving a model to model.pb, to visualize it later"
+https://stackoverflow.com/questions/36096386,Tensorflow `set_random_seed` not working
+https://stackoverflow.com/questions/33648167,Why do we name variables in Tensorflow?
+https://stackoverflow.com/questions/35356514,Run Tensorflow with googlenet
+https://stackoverflow.com/questions/38510339,the usage or API of tf.app.flags
+https://stackoverflow.com/questions/47997381,Tensorflow and CUDA version
+https://stackoverflow.com/questions/37663064,cudnn compile configuration in TensorFlow
+https://stackoverflow.com/questions/43792961,Understanding the while loop in Tensorflow
+https://stackoverflow.com/questions/41746576,Tensorflow with CUDA: ImportError
+https://stackoverflow.com/questions/38060825,What is the purpose of the tf.contrib module in Tensorflow?
+https://stackoverflow.com/questions/46948172,Predict in Tensorflow estimator using input fn
+https://stackoverflow.com/questions/44088706,Cannot convert a ndarray into a Tensor or Operation. error when trying to fetch a value from session.run in tensorflow
+https://stackoverflow.com/questions/36844909,Siamese Neural Network in TensorFlow
+https://stackoverflow.com/questions/42827240,Tensorflow Error : No Variables to optimize
+https://stackoverflow.com/questions/41314316,Tensorflow MNIST: terminate called after throwing an instance of 'std::bad_alloc'
+https://stackoverflow.com/questions/43521439,Tensorflow model import to Java
+https://stackoverflow.com/questions/41954308,Loss function works with reduce_mean but not reduce_sum
+https://stackoverflow.com/questions/44503603,Tensorflow on windows - ImportError: DLL load failed: The specified module could not be found
+https://stackoverflow.com/questions/42072234,TensorFlow - import meta graph and use variables from it
+https://stackoverflow.com/questions/46579249,Could not find a version that satisfies the requirement tensorflow (from versions: ) No matching distribution found for tensorflow
+https://stackoverflow.com/questions/47062288,Running Adam Optimizer
+https://stackoverflow.com/questions/46474658,Data Normalization with tensorflow tf-transform
+https://stackoverflow.com/questions/45283010,Tensorflow Object detection API: Print detected class as output to terminal
+https://stackoverflow.com/questions/45967895,What is TensorFlow Eager module for?
+https://stackoverflow.com/questions/42518744,Making a list and appending to it in TensorFlow
+https://stackoverflow.com/questions/42675391,tf.nn.sigmoid_cross_entropy_with_logits companies about arguments from documentation
+https://stackoverflow.com/questions/41606854,TensorFlow Permission Denied Error /Location
+https://stackoverflow.com/questions/33772833,error while merging summaries for tensorboard
+https://stackoverflow.com/questions/37689802,What is tensorflow.compat.as_str()?
+https://stackoverflow.com/questions/44206767,TypeError: List of Tensors when single Tensor expected - when using const with tf.random_normal
+https://stackoverflow.com/questions/44216907,type error 'tensor' object is not iterable when I using tf.contrib.rnn.LayerNormBasicLSTMCell
+https://stackoverflow.com/questions/44085769,Use conda environment in VS2017
+https://stackoverflow.com/questions/35550451,"Tensorflow, py_func, or custom function"
+https://stackoverflow.com/questions/36854940,TensorFlow GPU: is cudnn optional? Couldn't open CUDA library libcudnn.so
+https://stackoverflow.com/questions/42255729,"Tensorflow Error: ValueError: Shapes must be equal rank, but are 2 and 1 From merging shape 1 with other shapes"
+https://stackoverflow.com/questions/43425621,Is it recommended to use TensorFlow under Ubuntu or under Windows?
+https://stackoverflow.com/questions/39366271,For what reason Convolution 1x1 is used in deep neural networks?
+https://stackoverflow.com/questions/40932215,Error while using a newer version of glibc
+https://stackoverflow.com/questions/40443951,Binary mask in Tensorflow
+https://stackoverflow.com/questions/36941382,tensorflow: shared variables error with simple LSTM network
+https://stackoverflow.com/questions/41182155,TensorFlow seems not to use GPU
+https://stackoverflow.com/questions/37933890,Tensorflow GPU setup: error with CUDA on PyCharm
+https://stackoverflow.com/questions/40709074,"Binary classification in TensorFlow, unexpected large values for loss and accuracy"
+https://stackoverflow.com/questions/43290373,What is tensorflow op does?
+https://stackoverflow.com/questions/44679439,ModuleNotFoundError: No module named 'tensorflow.tensorboard.tensorboard'
+https://stackoverflow.com/questions/41273361,Get the last output of a dynamic_rnn in TensorFlow
+https://stackoverflow.com/questions/35266370,TensorFlow: Compute Hessian matrix (and higher order derivatives)
+https://stackoverflow.com/questions/39220524,Can not use tensorflow in pycharm
+https://stackoverflow.com/questions/42772509,tensorboard can't find event files
+https://stackoverflow.com/questions/45276830,Xcode version must be specified to use an Apple CROSSTOOL
+https://stackoverflow.com/questions/39583752,NaN from sparse_softmax_cross_entropy_with_logits in Tensorflow
+https://stackoverflow.com/questions/44868914,Using gpu vs cpu in tensorflow deep mnist example
+https://stackoverflow.com/questions/34694701,TensorFlow - which Docker image to use?
+https://stackoverflow.com/questions/43028683,What's going on in tf.train.shuffle_batch and `tf.train.batch?
+https://stackoverflow.com/questions/38513333,Is it possible to see tensorboard over ssh?
+https://stackoverflow.com/questions/36916690,Which Google Cloud Platform service is the easiest for running Tensorflow?
+https://stackoverflow.com/questions/38728895,"Why is it possible to have low loss, but also very low accuracy, in a convolutional neural network?"
+https://stackoverflow.com/questions/41259555,Tensorflow - loss starts high and does not decrease
+https://stackoverflow.com/questions/37086268,Rename variable scope of saved model in TensorFlow
+https://stackoverflow.com/questions/35094899,TensorFlow operator overloading
+https://stackoverflow.com/questions/45473682,Difference between `apply_gradients` and `minimize` of optimizer in tensorflow
+https://stackoverflow.com/questions/44664285,What are the contraints for tensorflow scope names?
+https://stackoverflow.com/questions/40808772,Tensorflow top n values in tensor
+https://stackoverflow.com/questions/38709517,Save or export weights and biases in TensorFlow for non-Python replication
+https://stackoverflow.com/questions/34631852,Attach a queue to a numpy array in tensorflow for data fetch instead of files?
+https://stackoverflow.com/questions/35733917,TensorFlow: Restoring variables from from multiple checkpoints
+https://stackoverflow.com/questions/40074412,word2vec - get nearest words
+https://stackoverflow.com/questions/39684415,TensorFlow getting elements of every row for specific columns
+https://stackoverflow.com/questions/43402760,Object detection with R-CNN?
+https://stackoverflow.com/questions/37558899,Efficiently Finding Closest Word In TensorFlow Embedding
+https://stackoverflow.com/questions/40325012,Get value of weights and bias from RNN cell
+https://stackoverflow.com/questions/39825043,Vocabulary Processor function
+https://stackoverflow.com/questions/41372375,AttributeError: module 'tensorflow.contrib.learn' has no attribute 'TensorFlowDNNClassifier'
+https://stackoverflow.com/questions/41604616,Save and load Tensorflow model
+https://stackoverflow.com/questions/38994037,Tensorflow while_loop for training
+https://stackoverflow.com/questions/41005249,What does the error: `Loaded runtime CuDNN library: 5005 but source was compiled with 5103` mean?
+https://stackoverflow.com/questions/48181961,What's the difference between `tf.random_normal` and `tf.random_normal_initializer`?
+https://stackoverflow.com/questions/47860803,Error loading tensorflow - Could not find cudart64_80.dll
+https://stackoverflow.com/questions/34809795,Tensorflow return similar images
+https://stackoverflow.com/questions/38958662,Tensorflow: What are the output_node_names for freeze_graph.py in the model_with_buckets model?
+https://stackoverflow.com/questions/33858021,Outer product in tensorflow
+https://stackoverflow.com/questions/37926562,Tensorflow conv2d_transpose (deconv) Number of rows of out_backprop doesn't match computed
+https://stackoverflow.com/questions/37011603,Tensorflow import error on Pycharm (Mac)
+https://stackoverflow.com/questions/34410654,tensorflow: ValueError: setting an array element with a sequence
+https://stackoverflow.com/questions/37743574,Hard limiting / threshold activation function in TensorFlow
+https://stackoverflow.com/questions/48082900,"In TensorFlow, what is the argument 'axis' in the function 'tf.one_hot'"
+https://stackoverflow.com/questions/40305996,open tensorflow graph from file
+https://stackoverflow.com/questions/35691102,ValueError: All shapes must be fully defined. Issue due to commenting out tf.random_crop
+https://stackoverflow.com/questions/43172922,Tensorflow Restore Model and Predict
+https://stackoverflow.com/questions/44873802,What is tf.bfloat16 truncated 16-bit floating point?
+https://stackoverflow.com/questions/45029977,TensorFlow Object Detection API Weird Behavior
+https://stackoverflow.com/questions/46168466,I want to know the size of bounding box in object-detection api
+https://stackoverflow.com/questions/33910638,Tensorflow translate.py import error: No module named translate
+https://stackoverflow.com/questions/41032075,Tensorflow Saver() not saving as .ckpt file
+https://stackoverflow.com/questions/40275774,"Shape must be rank 0 but is rank 1, parse_single_sequence_example"
+https://stackoverflow.com/questions/44162432,Analysis of the output from tf.nn.dynamic_rnn tensorflow function
+https://stackoverflow.com/questions/47064693,Tensorflow Data API - prefetch
+https://stackoverflow.com/questions/41600321,Distributed tensorflow: the difference between In-graph replication and Between-graph replication
+https://stackoverflow.com/questions/47233537,Shape must be rank 1 but is rank 2 tflearn error
+https://stackoverflow.com/questions/41352991,Tensorflow AttributeError: 'DataSet' object has no attribute 'image'
+https://stackoverflow.com/questions/42677650,Tensorflow: AttributeError: 'tuple' object has no attribute 'eval'
+https://stackoverflow.com/questions/43171406,Would cuDNN v6.0 work with TensorFlow currently?
+https://stackoverflow.com/questions/52346254,"ImportError: Failed to import any qt binding, Python - Tensorflow"
+https://stackoverflow.com/questions/39086587,Tensorflow MomentumOptimizer issue
+https://stackoverflow.com/questions/33624048,Fail to run word embedding example in tensorflow tutorial with GPUs
+https://stackoverflow.com/questions/44673865,Rank error in tf.nn.dynamic_rnn
+https://stackoverflow.com/questions/38051143,No broadcasting for tf.matmul in TensorFlow
+https://stackoverflow.com/questions/49675374,Write out file with google colab
+https://stackoverflow.com/questions/43940868,Python bindings not loaded issue in Rstudio
+https://stackoverflow.com/questions/42370388,Inception v3 Graph Definition File Download
+https://stackoverflow.com/questions/41607144,Loading two models from Saver in the same Tensorflow session
+https://stackoverflow.com/questions/42127505,Tensorflow dense_to_sparse
+https://stackoverflow.com/questions/34051205,Accessing filename from file queue in Tensor Flow
+https://stackoverflow.com/questions/41875067,TensorFlow tf.equal() operator doesn't work as expected
+https://stackoverflow.com/questions/42355122,Can I export a tensorflow summary to CSV?
+https://stackoverflow.com/questions/40297848,SGD with momentum in tensorflow
+https://stackoverflow.com/questions/42822844,"TensorFlow: Incompatible shapes: [100,155] vs. [128,155] when combining CNN and LSTM"
+https://stackoverflow.com/questions/49113497,python tensorflow import dll load failed
+https://stackoverflow.com/questions/38253700,Tensorflow: global_step not incremented; hence exponentialDecay not working
+https://stackoverflow.com/questions/44829438,Use of fasttext Pre-trained word vector as embedding in tensorflow script
+https://stackoverflow.com/questions/48889482,Feeding .npy (numpy files) into tensorflow data pipeline
+https://stackoverflow.com/questions/45532365,Is there any tutorial for tf.train.SessionRunHook?
+https://stackoverflow.com/questions/35374958,Reshape tensor using placeholder value
+https://stackoverflow.com/questions/41788431,TypeError: 'Tensor' object cannot be interpreted as an integer
+https://stackoverflow.com/questions/37801137,duplicate a tensorflow graph
+https://stackoverflow.com/questions/43067338,Tensor multiplication in Tensorflow
+https://stackoverflow.com/questions/37732196,tensorflow: difference between multi GPUs and distributed tensorflow
+https://stackoverflow.com/questions/35413618,TensorFlow: PlaceHolder error when using tf.merge_all_summaries()
+https://stackoverflow.com/questions/40320585,Use tf.scatter_update in a two dimensional tf.Variable
+https://stackoverflow.com/questions/42266094,Tensorflow 1.0 Windows + 64-bit Anaconda 4.3.0 error
+https://stackoverflow.com/questions/47625813,No module named helpers
+https://stackoverflow.com/questions/41627738,Why is there no mention of contrib.layers.linear in the Tensorflow documentation?
+https://stackoverflow.com/questions/35138131,Invalid argument error (incompatible shapes) with TensorFlow
+https://stackoverflow.com/questions/40863006,What is the parameter state_is_tuple in TensorFlow used for?
+https://stackoverflow.com/questions/40685087,Tensorflow. Converting unknown dimension size of a tensor to int
+https://stackoverflow.com/questions/40350839,Tensorflow unhashable type 'list' in sess.run
+https://stackoverflow.com/questions/33617638,TensorFlow (Mac OS X): can't determine number of CPU cores:
+https://stackoverflow.com/questions/45027394,Running trained tensorflow model in C++
+https://stackoverflow.com/questions/40955223,"tensorflow.python.framework.errors.InvalidArgumentError: Input to reshape is a tensor with xxx values, but the requested shape requires a multiple of"
+https://stackoverflow.com/questions/37898478,Is there a way to get tensorflow tf.Print output to appear in Jupyter Notebook output
+https://stackoverflow.com/questions/36427219,Can I write a custom layer in tensorflow in python with existing ops such as conv2d and tensor operations?
+https://stackoverflow.com/questions/37593960,Set k-largest elements of a tensor to zero in TensorFlow
+https://stackoverflow.com/questions/45427637,Numpy to TFrecords: Is there a more simple way to handle batch inputs from tfrecords?
+https://stackoverflow.com/questions/51390692,AttributeError: module 'tensorflow.python.training.checkpointable' has no attribute 'CheckpointableBase'
+https://stackoverflow.com/questions/40782271,AttributeError: module 'tensorflow' has no attribute 'reset_default_graph'
+https://stackoverflow.com/questions/37969065,"Tensorflow, best way to save state in RNNs?"
+https://stackoverflow.com/questions/34110502,Bilinear Tensor Product in TensorFlow
+https://stackoverflow.com/questions/33752772,Tensorflow on Raspberry Pi
+https://stackoverflow.com/questions/40044405,Tensorflow cannot initialize tf.Variable for dynamic batch size
+https://stackoverflow.com/questions/51404957,Tensorflow Object Detection API no train.py file
+https://stackoverflow.com/questions/48260394,What's the differences between tf.GraphKeys.TRAINABLE_VARIABLES and tf.GraphKeys.UPDATE_OPS in tensorflow?
+https://stackoverflow.com/questions/42296782,ValueError when executing softmax_cross_entropy_with_logits
+https://stackoverflow.com/questions/40350539,TFSlim - problems loading saved checkpoint for VGG16
+https://stackoverflow.com/questions/35208832,TensorFlow Resize image tensor to dynamic shape
+https://stackoverflow.com/questions/40205497,Why conv2d in tensorflow gives an output has the same shape as input
+https://stackoverflow.com/questions/44956460,ValueError: Dimensions must be equal but are 784 and 500 for 'MatMul_1' (op: 'MatMul') with input shapes: [?
+https://stackoverflow.com/questions/43100679,tensorflow einsum vs. matmul vs. tensordot
+https://stackoverflow.com/questions/41780655,What is the difference between tf.group and tf.control_dependencies?
+https://stackoverflow.com/questions/44167134,What's the difference between Tensor and Variable in Tensorflow
+https://stackoverflow.com/questions/36035092,Multi-dimensional gather in Tensorflow
+https://stackoverflow.com/questions/34770468,Running tensorflow on GPU cluster in virtualenv
+https://stackoverflow.com/questions/40201594,Tensorflow GPU utilization only 60% (GTX 1070)
+https://stackoverflow.com/questions/34223315,Incompatible shapes on tensorflow.equal() op for correct predictions evaluation
+https://stackoverflow.com/questions/44329185,Convert a graph proto (pb/pbtxt) to a SavedModel for use in TensorFlow Serving or Cloud ML Engine
+https://stackoverflow.com/questions/35056909,Input to LSTM network tensorflow
+https://stackoverflow.com/questions/40951602,what does the question mark in tensorflow shape mean?
+https://stackoverflow.com/questions/36683679,CudNN error running TensorFlow: Could not set cudnn filter descriptor: CUDNN_STATUS_BAD_PARAM
+https://stackoverflow.com/questions/42418029,Unable to use summary.merge in tensorboard for separate training and evaluation summaries
+https://stackoverflow.com/questions/34902782,Interpolated sampling of points in an image with TensorFlow
+https://stackoverflow.com/questions/39559183,What is the reason to use parameter server in distributed tensorflow learning?
+https://stackoverflow.com/questions/36565430,Adding multiple layers to TensorFlow causes loss function to become Nan
+https://stackoverflow.com/questions/37980020,About tensorflow.initialize_all_variables()
+https://stackoverflow.com/questions/47110528,Return coordinates for bounding boxes Google's Object Detection API
+https://stackoverflow.com/questions/34097457,TensorFlow Training
+https://stackoverflow.com/questions/37644984,Run train op multiple times in tensorflow
+https://stackoverflow.com/questions/41861781,feed_dict can not convert int to tensor in tensorflow
+https://stackoverflow.com/questions/42710051,Tensorflow: Print value when Session running
+https://stackoverflow.com/questions/35163371,Tensorflow: Extracting the features of a trained model
+https://stackoverflow.com/questions/42507030,Implementing Attention in Tensorflow
+https://stackoverflow.com/questions/42164772,Tensorflow Estimator API: Summaries
+https://stackoverflow.com/questions/44284580,What is the best way to initialize the Variable in TensorFlow?
+https://stackoverflow.com/questions/42552540,TensorFLow: tf.contrib.rnn module object is not callable
+https://stackoverflow.com/questions/42334646,TensorFlow - Pad unknown size tensor to a specific size?
+https://stackoverflow.com/questions/36412065,Get weights from tensorflow model
+https://stackoverflow.com/questions/43170017,Linear regression with tensorflow
+https://stackoverflow.com/questions/41356865,"TensorFlow InvalidArgumentError: Matrix size-compatible: In[0]: [100,784], In[1]: [500,10]"
+https://stackoverflow.com/questions/44132307,"tf.contrib.data.Dataset repeat with shuffle, notice epoch end, mixed epochs?"
+https://stackoverflow.com/questions/44417133,TypeError: Value passed to parameter 'a' has DataType not in list of allowed values
+https://stackoverflow.com/questions/42928822,tensorflow.python.framework.errors_impl.NotFoundError while creating a custom inception
+https://stackoverflow.com/questions/44813939,Could not satisfy explicit device specification '/device:GPU:0' because no devices matching
+https://stackoverflow.com/questions/41750088,Tensorflow: Finetune pretrained model on new dataset with different number of classes
+https://stackoverflow.com/questions/44946189,TypeError: __init__() got an unexpected keyword argument 'shape'
+https://stackoverflow.com/questions/38435926,tensorflow TypeError: run() got multiple values for argument 'feed_dict'
+https://stackoverflow.com/questions/33711427,TensorFlow initializing Tensor of ones
+https://stackoverflow.com/questions/35755973,TensorFlow error: TensorShape() must have the same rank
+https://stackoverflow.com/questions/39414060,Adding an extra hidden layer using Google's TensorFlow
+https://stackoverflow.com/questions/47333530,object does not support item assignment in tensor flow
+https://stackoverflow.com/questions/42069147,Implementation of model parallelism in tensorflow
+https://stackoverflow.com/questions/38167388,AttributeError: 'Tensor' object has no attribute 'shape'
+https://stackoverflow.com/questions/43727917,ImportError: DLL load failed: The specified module could not be found. While attempting to import TensorFlow
+https://stackoverflow.com/questions/45085938,TensorFlow: Is there a way to measure FLOPS for a model?
+https://stackoverflow.com/questions/38806136,tensorflow shape of a tiled tensor
+https://stackoverflow.com/questions/39379747,Import OpenCV Mat into C++ Tensorflow without copying
+https://stackoverflow.com/questions/49450829,Darknet YOLO image size
+https://stackoverflow.com/questions/38575578,TensorFlow: 2 layer feed forward neural net
+https://stackoverflow.com/questions/42281844,What is the mathematics behind the smoothing parameter in TensorBoard's scalar graphs?
+https://stackoverflow.com/questions/46832151,tensorflow neural network multi layer perceptron for regression example
+https://stackoverflow.com/questions/44054656,Creating TfRecords from a list of strings and feeding a Graph in tensorflow after decoding
+https://stackoverflow.com/questions/49083984,"ValueError: Can not squeeze dim[1], expected a dimension of 1, got 3 for 'sparse_softmax_cross_entropy_loss"
+https://stackoverflow.com/questions/41964212,Conflict Protobuf version when using Opencv and Tensorflow c++
+https://stackoverflow.com/questions/36783977,Where is gen_math_ops script in tensorflow?
+https://stackoverflow.com/questions/37898795,Tensorflow accuracy at .99 but predictions awful
+https://stackoverflow.com/questions/43917456,Matrix norm in TensorFlow
+https://stackoverflow.com/questions/40586471,What is the best way to run saved model with different batch size in TensorFlow?
+https://stackoverflow.com/questions/34090213,tf.matmul doesn't works as expected
+https://stackoverflow.com/questions/43667018,Locally load saved tensorflow model .pb from google cloud machine learning engine
+https://stackoverflow.com/questions/38622163,TensorFlow: Does it only have SGD algorithms? or does it also have others like LBFGS
+https://stackoverflow.com/questions/37109166,Tensorflow convert_to_tensor TypeError: List of Tensors when single Tensor expected
+https://stackoverflow.com/questions/35695183,Tensorflow : Memory leak even while closing Session?
+https://stackoverflow.com/questions/42892347,Can I apply tf.map_fn(...) to multiple inputs/outputs?
+https://stackoverflow.com/questions/41560212,Tensorflow <lambda>() got an unexpected keyword argument 'partition_info'
+https://stackoverflow.com/questions/41708106,Linking Tensorboard Embedding Metadata to checkpoint
+https://stackoverflow.com/questions/42513613,TensorFlow dynamic_rnn regressor: ValueError dimension mismatch
+https://stackoverflow.com/questions/35565312,Is there a convolution function in Tensorflow to apply a Sobel filter?
+https://stackoverflow.com/questions/52092810,Tensorflow error : DLL load failed: The specified procedure could not be found
+https://stackoverflow.com/questions/33699174,TensorFlow's ReluGrad claims input is not finite
+https://stackoverflow.com/questions/44640613,What is the output of tf.split?
+https://stackoverflow.com/questions/43895013,Pickle loading CIFAR-100 data
+https://stackoverflow.com/questions/45036496,Tensorflow object detection: ImportError: No module named nets
+https://stackoverflow.com/questions/37002134,Having error with Tensorflow Mnist
+https://stackoverflow.com/questions/38694111,Is it thread-safe when using tf.Session in inference service?
+https://stackoverflow.com/questions/36057715,TensorFlow with a NER-Tagger
+https://stackoverflow.com/questions/46256747,Can not use both bias and batch normalization in convolution layers
+https://stackoverflow.com/questions/33992029,Implementing batch normalization with tensorflow
+https://stackoverflow.com/questions/49501538,Custom weight initialization tensorflow tf.layers.dense
+https://stackoverflow.com/questions/45086109,Tensorflow - Using tf.summary with 1.2 Estimator API
+https://stackoverflow.com/questions/45808708,Tensorflow tutorial estimator Failed to convert object of type <type 'dict'> to Tensor
+https://stackoverflow.com/questions/37958706,"In Tensorflow, what is the difference between a tensor that has a type ending in _ref and a tensor that does not?"
+https://stackoverflow.com/questions/42354269,Tensorflow: sigmoid_cross_entropy_with_logits
+https://stackoverflow.com/questions/44488602,loading pre-trained vgg-16 on tensorflow
+https://stackoverflow.com/questions/34300700,Use of matrix multiplication function in TensorFlow
+https://stackoverflow.com/questions/38341649,Tensorflow Error: Incompatible Shapes for Broadcasting
+https://stackoverflow.com/questions/42488475,Tensorflow LSTM Dropout Implementation
+https://stackoverflow.com/questions/39665702,Tensorflow: value error with variable_scope
+https://stackoverflow.com/questions/37751739,tensorflow code optimization strategy
+https://stackoverflow.com/questions/46940857,"What is the difference between [], [None], None and () for the shape of a placeholder?"
+https://stackoverflow.com/questions/44891732,Create PASCAL Voc for Tensorflow Object Detection API
+https://stackoverflow.com/questions/41276972,Read Mysql Database in Tensorflow
+https://stackoverflow.com/questions/48473628,downgrade tensorflow to use cuda 8
+https://stackoverflow.com/questions/42216208,Should TensorFlow users prefer SavedModel over Checkpoint or GraphDef?
+https://stackoverflow.com/questions/39357454,Restore checkpoint in Tensorflow - tensor name not found
+https://stackoverflow.com/questions/39101512,Reuse Reusing Variable of LSTM in Tensorflow
+https://stackoverflow.com/questions/41505746,What is the use of tf.select
+https://stackoverflow.com/questions/44523060,Tensorflow error : loaded runtime CuDNN library: 6021 (compatibility version 6000) but source was compiled with 5110 (compatibility version 5100)
+https://stackoverflow.com/questions/39252901,Tensorflow: save the model with smallest validation error
+https://stackoverflow.com/questions/42813241,TypeError: Cannot interpret feed_dict key as Tensor: Can not convert a int into a Tensor
+https://stackoverflow.com/questions/39295263,Good way to input PASCAL-VOC 2012 training data and labels with tensorflow
+https://stackoverflow.com/questions/47143289,tensorflow AttributeError: 'module' object has no attribute 'data'
+https://stackoverflow.com/questions/43872812,Tensorflow AdamOptimizer vs Gradient Descent
+https://stackoverflow.com/questions/43298450,Kullback-Leibler (KL) loss in tensorflow
+https://stackoverflow.com/questions/34170610,Tensorflow Image Recognition tutorial seemingly out of date?
+https://stackoverflow.com/questions/37755972,Read in Large CSV File and feed into TensorFlow
+https://stackoverflow.com/questions/35699851,Using tensorflow in IDE on windows
+https://stackoverflow.com/questions/34727431,TensorFlow on Jupyter: Can't restore variables
+https://stackoverflow.com/questions/34835503,Tensorflow: Where is tf.nn.conv2d Actually Executed?
+https://stackoverflow.com/questions/34265768,What is a tensorflow float ref?
+https://stackoverflow.com/questions/45823662,Can we use .pbtxt instead of .pb file in using Tensor flow model
+https://stackoverflow.com/questions/37949588,Is there an no-op (pass-through) operation in tensorflow?
+https://stackoverflow.com/questions/33686464,What am I missing from this csv reader for TensorFlow?
+https://stackoverflow.com/questions/47859924,Use shared GPU memory with TensorFlow?
+https://stackoverflow.com/questions/47030644,Tensorboard error: 'Tensor' object has no attribute 'value'
+https://stackoverflow.com/questions/39356714,Using tensorboard with Jupyter notebooks
+https://stackoverflow.com/questions/37175285,NaN values for loss function (MSE) in TensorFlow
+https://stackoverflow.com/questions/43822715,Tensorflow cost function
+https://stackoverflow.com/questions/48658204,TensorFlow : failed call to cuInit: CUDA_ERROR_NO_DEVICE
+https://stackoverflow.com/questions/34079781,Tensor Flow shuffle_batch() blocks at end of epoch
+https://stackoverflow.com/questions/38469632,TensorFlow: Non-repeatable results
+https://stackoverflow.com/questions/45515142,tensorflow-gpu is not working with Blas GEMM launch failed
+https://stackoverflow.com/questions/35731506,Unaggregated gradients / gradients per example in tensorflow
+https://stackoverflow.com/questions/42255855,TensorFlow FileWriter not writing to file
+https://stackoverflow.com/questions/45115028,Tensorflow: Print contents of a tensor in C++
+https://stackoverflow.com/questions/34734054,Tensorflow ArgumentError Running CIFAR-10 example
+https://stackoverflow.com/questions/45191525,Import a simple Tensorflow frozen_model.pb file and make prediction in C++
+https://stackoverflow.com/questions/45375981,Tensorflow: ImportError: libcusolver.so.8.0
+https://stackoverflow.com/questions/33684441,writing a custom cost function in tensorflow
+https://stackoverflow.com/questions/49084934,Illegal instruction: 4 when importing tensorflow in python 3.6
+https://stackoverflow.com/questions/45735858,why tensorflow just outputs killed
+https://stackoverflow.com/questions/34900246,Tensorflow: Passing a session to a python multiprocess
+https://stackoverflow.com/questions/40698709,Tensorflow: Interpretation of Weight in Weighted Cross Entropy
+https://stackoverflow.com/questions/41433282,Tensorflow Retrain on Windows
+https://stackoverflow.com/questions/33795982,undefined symbol: PyUnicodeUCS4_FromStringAndSize with tensorflow on heroku
+https://stackoverflow.com/questions/48391075,Is it possible to visualize a tensorflow graph without a training op?
+https://stackoverflow.com/questions/48514608,Tensorflow: failed to create session in server
+https://stackoverflow.com/questions/37689632,Max margin loss in TensorFlow
+https://stackoverflow.com/questions/42922948,Why use tensorflow gfile? (for file I/O)
+https://stackoverflow.com/questions/45674696,TensorFlow Object Detection API print objects found on image to console
+https://stackoverflow.com/questions/46235376,TensorFlow protobuf version mismatch
+https://stackoverflow.com/questions/35106101,Why does my TensorFlow Convnet (attempted) training result in NaN gradients?
+https://stackoverflow.com/questions/42613747,Tensorflow splitting training data to batches
+https://stackoverflow.com/questions/40192728,cross entropy is nan
+https://stackoverflow.com/questions/45835292,"Shapes must be equal rank, but are 2 and 1"
+https://stackoverflow.com/questions/40307103,Get Predicted result from tensorflow
+https://stackoverflow.com/questions/34377797,"In Tensorflow's C++ TensorShape API, what is the equivalent of Python's None?"
+https://stackoverflow.com/questions/40396552,Google Storage (gs) wrapper file input/out for Cloud ML?
+https://stackoverflow.com/questions/44711166,Tensorflow Shape must be rank 1 but is rank 2
+https://stackoverflow.com/questions/37850347,Tensorflow: ImportError cannot import name graph_util in retrain.py
+https://stackoverflow.com/questions/39294159,tensorflow : restore from checkpoint for continue training
+https://stackoverflow.com/questions/42315234,AttributeError: module 'tensorflow' has no attribute 'unpack'
+https://stackoverflow.com/questions/45226950,what does arg_scope actually do?
+https://stackoverflow.com/questions/39070708,Why sometimes tensorflow runs slower and slower with the process of training?
+https://stackoverflow.com/questions/40601552,Visualizing attention activation in Tensorflow
+https://stackoverflow.com/questions/41482823,"TensorFlow's API: tf.squeeze, tf.nn.rnn"
+https://stackoverflow.com/questions/33933846,TensorFlow Indices are not valid (out of bounds)
+https://stackoverflow.com/questions/41085549,there is no graph with tensorboard
+https://stackoverflow.com/questions/41412335,tf.nn.softmax_cross_entropy_with_logits() error: logits and labels must be same size
+https://stackoverflow.com/questions/44299638,"Fetch argument <tf.Tensor 'batch:0' shape=(128, 56, 56, 3) dtype=float32> cannot be interpreted as a Tensor."
+https://stackoverflow.com/questions/35320365,Using a GPU both as video card and GPGPU
+https://stackoverflow.com/questions/47694551,"ValueError: Shape must be rank 1 but is rank 0 for 'ROIAlign/Crop' (op: 'CropAndResize') with input shapes: [2,360,475,3], [1,4], [], [2]"
+https://stackoverflow.com/questions/37652003,Convergence of LSTM network using Tensorflow
+https://stackoverflow.com/questions/38833934,Write Custom Python-Based Gradient Function for an Operation? (without C++ Implementation)
+https://stackoverflow.com/questions/38523037,What does tf.train.ExponentialMovingAverage do?
+https://stackoverflow.com/questions/40726039,Tensorflow: CUDA_VISIBLE_DEVICES doesn't seem to work
+https://stackoverflow.com/questions/44810459,Tensorflow Object Detection API
+https://stackoverflow.com/questions/44422508,Tensorflow Attempting to use uninitialized value AUC/AUC/auc/false_positives
+https://stackoverflow.com/questions/46178880,Train and Test with TFRecord Data
+https://stackoverflow.com/questions/45873463,Check if NaN in Tensorflow
+https://stackoverflow.com/questions/49089740,DuplicateFlagError when trying to train tensorflow object detection api on google collaboratory
+https://stackoverflow.com/questions/34556932,XOR gate with a neural network
+https://stackoverflow.com/questions/34046048,Debugging nans in the backward pass
+https://stackoverflow.com/questions/41131728,Problems with KNN implemantion in TensorFlow
+https://stackoverflow.com/questions/34826736,Running TensorFlow on a Slurm Cluster?
+https://stackoverflow.com/questions/41957574,Python: rewrite a looping numpy math function to run on GPU
+https://stackoverflow.com/questions/37704362,Tensorflow freeze_graph script failing on model defined with Keras
+https://stackoverflow.com/questions/49579684,Difference between `Dataset.from_tensors` and `Dataset.from_tensor_slices`?
+https://stackoverflow.com/questions/35163789,Theano Dimshuffle equivalent in Google's TensorFlow?
+https://stackoverflow.com/questions/42002083,Tensorflow Session.Run() Tensor object is not callable
+https://stackoverflow.com/questions/47735896,Get length of a dataset in Tensorflow
+https://stackoverflow.com/questions/34727792,What's difference between `variable.name` and `variable.op.name`?
+https://stackoverflow.com/questions/36874522,Tensorflow gradients
+https://stackoverflow.com/questions/47701544,Does dropout layer go before or after dense layer in TensorFlow?
+https://stackoverflow.com/questions/37583509,Are there any documents for Eigen/CXX11?
+https://stackoverflow.com/questions/37104287,Index of a maximum element in TensorFlow tensor
+https://stackoverflow.com/questions/38231013,Tensorflow Model Evaluation is based on batch size
+https://stackoverflow.com/questions/45900122,TypeError: Input 'b' of 'MatMul' Op has type float32 that does not match type int32 of argument 'a'
+https://stackoverflow.com/questions/44523731,Tensorflow: NameError: name 'x_train' is not defined
+https://stackoverflow.com/questions/44500733,Tensorflow allocating GPU memory when using tf.device('/cpu:0')
+https://stackoverflow.com/questions/38628014,Variable size Convolutional Neural Network Input and Fixed output
+https://stackoverflow.com/questions/41804380,Testing GPU with tensorflow matrix multiplication
+https://stackoverflow.com/questions/41733210,What size should my image be to retrain Inception?
+https://stackoverflow.com/questions/36399337,debugging Tensorflow's C++ code behind the SWIG interface
+https://stackoverflow.com/questions/33686902,Conditional execution in TensorFlow
+https://stackoverflow.com/questions/48546508,Tensorflow: TypeError: __new__() got an unexpected keyword argument 'file'
+https://stackoverflow.com/questions/35114024,Loss functions in tensorflow (with an if - else)
+https://stackoverflow.com/questions/35487598,Sampling Bernoulli random variables in TensorFlow
+https://stackoverflow.com/questions/41435286,Using OpenCV as a machine learning libarary instead of TensorFlow?
+https://stackoverflow.com/questions/41965187,Nvidia device error in tensorflow
+https://stackoverflow.com/questions/42286426,What is the difference between xavier_initializer and xavier_initializer_conv2d?
+https://stackoverflow.com/questions/47635507,ValueError: Feature not in features dictionary
+https://stackoverflow.com/questions/37596333,tensorflow store training data on GPU memory
+https://stackoverflow.com/questions/38109869,Named Entity Recognition with Syntaxnet
+https://stackoverflow.com/questions/40979688,Tensorflow: Using Parameter Servers in Distributed Training
+https://stackoverflow.com/questions/42326245,Tensorflow error in import tf.nn.rnn_cell
+https://stackoverflow.com/questions/45047929,What does tf.global_variables_initializer() do under the hood?
+https://stackoverflow.com/questions/41518379,Why was Eigen chosen for TensorFlow?
+https://stackoverflow.com/questions/45771515,Crop image to bounding box in Tensorflow Object Detection API
+https://stackoverflow.com/questions/46154189,What is the difference of static Computational Graphs in tensorflow and dynamic Computational Graphs in Pytorch?
+https://stackoverflow.com/questions/42498876,TensorFlow: No gradients provided for any variable and partial_run
+https://stackoverflow.com/questions/36226872,Having difficulty accessing the Jupyter notebook when trying to run TensorFlow through Docker
+https://stackoverflow.com/questions/34886605,TensorFlow network not training?
+https://stackoverflow.com/questions/49177169,TensorFlow: TypeError: Using a `tf.Tensor` as a Python `bool` is not allowed
+https://stackoverflow.com/questions/43065931,Tensorflow: Linear regression with non-negative constraints
+https://stackoverflow.com/questions/41025050,TensorFlow and OpenCL
+https://stackoverflow.com/questions/38005256,Tensorflow nn.conv3d() and max_pool3d
+https://stackoverflow.com/questions/39714374,NaN results in tensorflow Neural Network
+https://stackoverflow.com/questions/39945037,Tensorflow reshape on convolution output gives TypeError
+https://stackoverflow.com/questions/38157831,Assign a name to a tensor?
+https://stackoverflow.com/questions/47929557,Tensorflow CNN training images are all different sizes
+https://stackoverflow.com/questions/35972194,variable length for loop - tensorflow
+https://stackoverflow.com/questions/48443203,Tensorflow GetNext() failed because the iterator has not been initialized
+https://stackoverflow.com/questions/43604608,Why is my tf_gradients returning None?
+https://stackoverflow.com/questions/45813746,Tensorflow Invalid Argument: Assertation Failed [Label IDs must < n_classes]
+https://stackoverflow.com/questions/38296200,InvalidArgumentError: You must feed a value for placeholder tensor Placeholder
+https://stackoverflow.com/questions/36341473,Recommended GPUs for Tensorflow
+https://stackoverflow.com/questions/40179209,Tensorflow - Testing a mnist neural net with my own images
+https://stackoverflow.com/questions/45139423,Tensorflow error: FailedPeconditionError: attempting to use uninitialized variable
+https://stackoverflow.com/questions/46264133,Weights and Biases not updating in tensorflow
+https://stackoverflow.com/questions/43985250,What are the minimum system requirements for executing a simple project in Tensorflow?
+https://stackoverflow.com/questions/41806689,Tensorflow : Get indices of array rows which are zero
+https://stackoverflow.com/questions/48831881,CentOS 7: libstdc++.so.6: version `CXXABI_1.3.9' not found
+https://stackoverflow.com/questions/38238192,tensorflow 'module' object has no attribute 'contrib'
+https://stackoverflow.com/questions/43370953,Error while import tensorflow module
+https://stackoverflow.com/questions/39187764,tensorflow: efficient feeding of eval/train data using queue runners
+https://stackoverflow.com/questions/33639123,Cannot find any scalar summaries in TensorBoard
+https://stackoverflow.com/questions/40464403,TensorFlow: Convolution Neural Network with non-image input
+https://stackoverflow.com/questions/46423156,Tensorflow- Feature Column
+https://stackoverflow.com/questions/51031421,Failed to load native tensorflow runtime- Paperspace
+https://stackoverflow.com/questions/42998989,Batch_size in tensorflow? Understanding the concept
+https://stackoverflow.com/questions/44342432,Is gradient in the tensorflow's graph calculated incorrectly?
+https://stackoverflow.com/questions/41923478,Dynamically tile a tensor depending on the batch size
+https://stackoverflow.com/questions/38333348,Tensorflow Connectionist Temporal Classification (CTC) example
+https://stackoverflow.com/questions/49770465,CUDNN_STATUS_NOT_INITIALIZED when trying to run TensorFlow
+https://stackoverflow.com/questions/35402749,"While running TensorFlow's classify_image, getting AttributeError: 'module' object has no attribute 'gfile'"
+https://stackoverflow.com/questions/48031162,ImportError: No module named 'tensorflow.contrib.data'
+https://stackoverflow.com/questions/42590431,Output from TensorFlow `py_func` has unknown rank/shape
+https://stackoverflow.com/questions/42268180,"tar: Unrecognized archive format error when trying to unpack flower_photos.tgz, TF tutorials on OSX"
+https://stackoverflow.com/questions/34289131,Basic neural network in TensorFlow
+https://stackoverflow.com/questions/39432164,Sample from a tensor in Tensorflow along an axis
+https://stackoverflow.com/questions/42123196,ValueError: No variables to save when saving Tensorflow checkpoint
+https://stackoverflow.com/questions/40319713,TensorFlow fails to convert string to number
+https://stackoverflow.com/questions/43824665,Tensorflow median value
+https://stackoverflow.com/questions/44887367,"TensorFlow, tf.one_hot why the shape of output is defined by the value of axis?"
+https://stackoverflow.com/questions/38272699,Importing images in tensorflow
+https://stackoverflow.com/questions/34075754,Tensor Flow Explicit Device Requirement Error
+https://stackoverflow.com/questions/43880485,pip::No matching distribution found for tensorflow-gpu
+https://stackoverflow.com/questions/37345444,Import pandas on docker with tensorflow
+https://stackoverflow.com/questions/42224307,Retrain model in Tensorflow
+https://stackoverflow.com/questions/42302498,Converting TensorFlow tutorial to work with my own data
+https://stackoverflow.com/questions/43587083,difference between convolution2d and conv2d in tensorflow in terms of ussage
+https://stackoverflow.com/questions/43356578,Failed to load the native TensorFlow runtime
+https://stackoverflow.com/questions/41842310,Does image size matter when training with TensorFlow?
+https://stackoverflow.com/questions/41962131,WARNING:tensorflow - initialize_all_variables (from tensorflow.python.ops.variables) is deprecated
+https://stackoverflow.com/questions/40925652,"In TensorFlow,what's the meaning of:0 in a Variable's name?"
+https://stackoverflow.com/questions/45779307,Difference between tf.assign and assignment operator (=)
+https://stackoverflow.com/questions/45134831,Is Bias necessarily need at Colvolution Layer?
+https://stackoverflow.com/questions/44805675,TensorFlow - tf.layers vs tf.contrib.layers
+https://stackoverflow.com/questions/39250828,Multi-Label Classifier in Tensorflow
+https://stackoverflow.com/questions/47499138,iterator.get_next() cause terminate called after throwing an instance of 'std::system_error
+https://stackoverflow.com/questions/47091726,Difference between tf.data.Dataset.map() and tf.data.Dataset.apply()
+https://stackoverflow.com/questions/51494677,Is there a tensorflow version that is compatible with Cuda 9.0 and cudnn 7.1
+https://stackoverflow.com/questions/34328233,Feeding parameters into placeholders in tensorflow
+https://stackoverflow.com/questions/47867748,Transfer learning with tf.estimator.Estimator framework
+https://stackoverflow.com/questions/33883382,TensorFlow - why doesn't this sofmax regression learn anything?
+https://stackoverflow.com/questions/50213021,Best practice for upgrading CUDA and cuDNN for tensorflow
+https://stackoverflow.com/questions/33731875,TensorFlow IOError: [Errno socket error] [Errno 104] Connection reset by peer
+https://stackoverflow.com/questions/43402648,TensorFlow Serving for a custom model
+https://stackoverflow.com/questions/46548231,UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 38: invalid start byte
+https://stackoverflow.com/questions/39810356,Shut down server in TensorFlow
+https://stackoverflow.com/questions/42669578,ValueError: Attempt to reuse RNNCell with a different variable scope than its first use
+https://stackoverflow.com/questions/38568673,Tensorflow: why is zip() function used in the steps involving applying the gradients?
+https://stackoverflow.com/questions/38641104,Tensorflow Relu Misunderstanding
+https://stackoverflow.com/questions/35513370,utf-8' decode error in tensorflow tutorial
+https://stackoverflow.com/questions/40245144,"tensorflow requested = float64_ref, actual = float64"
+https://stackoverflow.com/questions/38265061,"Tensorflow, missing checkpoint files. Does saver only allow for keeping 5 check points?"
+https://stackoverflow.com/questions/41848660,Why the negative reshape (-1) in MNIST tutorial?
+https://stackoverflow.com/questions/44124376,TensorFlow Dataset Shuffle Each Epoch
+https://stackoverflow.com/questions/37023954,Restoring graph in tensorflow fails because there is no variable to save
+https://stackoverflow.com/questions/38246725,TensorFlow: Adding Class to Pre-trained Inception Model & Outputting Full Image Hierarchy
+https://stackoverflow.com/questions/35206445,Add control dependency after operations are created?
+https://stackoverflow.com/questions/44951240,TensorFlow: tf.layers vs low-level API
+https://stackoverflow.com/questions/43322131,Tensorflow summary: adding a variable which does not belong to computational graph
+https://stackoverflow.com/questions/41459900,"Tensorflow Label_Image for PNG, GIF etc"
+https://stackoverflow.com/questions/36245481,TensorFlow: slow performance when getting gradients at inputs
+https://stackoverflow.com/questions/33889366,A reusable Tensorflow convolutional Network
+https://stackoverflow.com/questions/45404056,tf.unstack with dynamic shape
+https://stackoverflow.com/questions/42344090,What is the alternative of numpy.newaxis in tensorflow?
+https://stackoverflow.com/questions/42826680,NameError: name 'core' is not defined
+https://stackoverflow.com/questions/45770740,"Tensorflow ValueError: All shapes must be fully defined: [TensorShape([Dimension(None), Dimension(None), Dimension(3)]), TensorShape([])"
+https://stackoverflow.com/questions/50229091,Is it necessary to close session after tensorflow InteractiveSession()
+https://stackoverflow.com/questions/40539938,What's the difference between optimizer.compute_gradient() and tf.gradients() in tensorflow?
+https://stackoverflow.com/questions/41310637,No OpKernel was registered to support Op 'Conv2D' with these attrs
+https://stackoverflow.com/questions/42404564,What does tf.train.get_global_step() do in TensorFlow?
+https://stackoverflow.com/questions/37320320,Creating batches from custom dataset of images in Tensorflow
+https://stackoverflow.com/questions/33727540,"Does the output of tf.nn.bias_add(value, bias) ever have a different shape than shape of value"
+https://stackoverflow.com/questions/43721690,Tensorflow ImportError: No module named '_pywrap_tensorflow_internal' on Windows 10
+https://stackoverflow.com/questions/44381361,Using gpu for tensorflow's calculation on raspberry pi
+https://stackoverflow.com/questions/43561853,Why do we clip_by_global_norm to obtain gradients while performing RNN
+https://stackoverflow.com/questions/44124668,"ValueError: Cannot feed value of shape (50,) for Tensor u'Placeholder_1:0', which has shape '(?, 10)'"
+https://stackoverflow.com/questions/39553981,Implement Autoencoder using tensorflow
+https://stackoverflow.com/questions/41778632,Why is the x variable tensor reshaped with -1 in the MNIST tutorial for tensorflow?
+https://stackoverflow.com/questions/43814367,Resize 3D data in tensorflow like tf.image.resize_images
+https://stackoverflow.com/questions/38446536,Bounding boxes using tensorflow and inception-v3
+https://stackoverflow.com/questions/44010410,"tf.boolean_mask, mask_dimension must be specified?"
+https://stackoverflow.com/questions/48852696,Cannot import tensorflow in Jupyter Notebook
+https://stackoverflow.com/questions/44132579,feed data into a tf.contrib.data.Dataset like a queue
+https://stackoverflow.com/questions/45544928,Tensorflow serving No versions of servable <MODEL> found under base path
+https://stackoverflow.com/questions/38297581,Tensorflow: GPU Utilization is almost always at 0%
+https://stackoverflow.com/questions/41714801,Tensorflow: _variable_with_weight_decay(...) explanation
+https://stackoverflow.com/questions/34911276,Cannot gather gradients for GradientDescentOptimizer in TensorFlow
+https://stackoverflow.com/questions/43454004,what is the difference between num_epochs and steps?
+https://stackoverflow.com/questions/49586639,why cant i update tensorflow 1.7.0 by conda
+https://stackoverflow.com/questions/37238653,"TensorFlow/TFLearn: ValueError: Cannot feed value of shape (256, 400, 400) for Tensor u'TargetsData/Y:0', which has shape '(?, 64)'"
+https://stackoverflow.com/questions/38778760,Tensorflow: No gradients provided for any variable
+https://stackoverflow.com/questions/36428157,Understanding Tensorflow LSTM models input?
+https://stackoverflow.com/questions/42814738,Extracting probabilities from a softmax layer in [tensorflow 1.00]
+https://stackoverflow.com/questions/40513466,tensorflow retrain.py app.run() got unexpected keyword argument 'argv'
+https://stackoverflow.com/questions/45643809,Custom eval_metric_ops in Estimator in Tensorflow
+https://stackoverflow.com/questions/47411383,Parallel threads with TensorFlow Dataset API and flat_map
+https://stackoverflow.com/questions/46852018,Tensorflow Estimator API save image summary in eval mode
+https://stackoverflow.com/questions/43830022,Compute gradient norm of each part of composite loss function
+https://stackoverflow.com/questions/47197989,Items of feature_columns must be a _FeatureColumn
+https://stackoverflow.com/questions/35078027,Implement MLP in tensorflow
+https://stackoverflow.com/questions/44685461,Tensorflow seq2seq tutorial: NoneType object has no attribute 'update'
+https://stackoverflow.com/questions/43183661,"Expected binary or unicode string, got nan - tensorflow/pandas"
+https://stackoverflow.com/questions/35420275,Tensorflow weights for kernels of convolution for colored images?
+https://stackoverflow.com/questions/35720595,Tensorflow: issue with placeholder and summaries
+https://stackoverflow.com/questions/49166819,"KeyError : The tensor variable , Refer to the tensor which does not exists"
+https://stackoverflow.com/questions/47916363,"Tensorflow MNIST: ValueError: Shape must be rank 4 but is rank 1 for 'Conv2D' (op: 'Conv2D') with input shapes: [?,28,28,1], [4]"
+https://stackoverflow.com/questions/35198528,Reshape y_train for binary text classification in Tensorflow
+https://stackoverflow.com/questions/43795423,scheduled sampling in Tensorflow
+https://stackoverflow.com/questions/43332342,Is it possible to replace placeholder with a constant in an existing graph?
+https://stackoverflow.com/questions/41885519,Tensorflow dynamic_rnn parameters meaning
+https://stackoverflow.com/questions/41018454,Tensorflow checkpoint models getting deleted
+https://stackoverflow.com/questions/43805860,tensorflow - understanding tensor shapes for convolution
+https://stackoverflow.com/questions/37472420,TensorFlow: Each iteration in training for-loop slower
+https://stackoverflow.com/questions/40195549,tf.rank function in Tensorflow
+https://stackoverflow.com/questions/48431870,What does DNN mean in a TensorFlow Estimator.DNNClassifier?
+https://stackoverflow.com/questions/41918795,Minimize a function of one variable in Tensorflow
+https://stackoverflow.com/questions/39251916,Is there an implementation of convolutional lstm in tensorflow?
+https://stackoverflow.com/questions/45540908,What is weight decay loss?
+https://stackoverflow.com/questions/43022516,Tensorflow Inception FeedInputs: unable to find feed output input
+https://stackoverflow.com/questions/40917742,Tensorflow: tf.get_collection Not Returning Variables in Scope
+https://stackoverflow.com/questions/39111373,Tensorflow: chaining tf.gather() produces IndexedSlices warning
+https://stackoverflow.com/questions/42193055,Can't save tensorflow image to file
+https://stackoverflow.com/questions/49148962,Tensorflow object detection config files documentation
+https://stackoverflow.com/questions/42464018,FLAGS = None meaning?
+https://stackoverflow.com/questions/37281777,Tensorflow on simple linear regression
+https://stackoverflow.com/questions/43467586,tensorflow: CUDA_ERROR_OUT_OF_MEMORY always happen
+https://stackoverflow.com/questions/43656938,Attention mechanism for sequence classification (seq2seq tensorflow r1.1)
+https://stackoverflow.com/questions/45317706,AttributeError: module 'tensorflow' has no attribute 'Variable' ERROR
+https://stackoverflow.com/questions/42655764,debugging 'TypeError: Can not convert a ndarray into a Tensor or Operation' for CNN
+https://stackoverflow.com/questions/48149954,Tensorflow error: Failed to convert object of type <class 'dict'> to Tensor
+https://stackoverflow.com/questions/41577384,variable scope issue in Tensorflow
+https://stackoverflow.com/questions/40088132,Tensorflow MNIST (Weight and bias variables)
+https://stackoverflow.com/questions/49132736,Tensorflow GPU Check failed: streamÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ>parent()ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ>;
+https://stackoverflow.com/questions/39068259,Passing a numpy array to a tensorflow Queue
+https://stackoverflow.com/questions/35714995,Computing exact moving average over multiple batches in tensorflow
+https://stackoverflow.com/questions/33698510,Use attribute and target matrices for TensorFlow Linear Regression Python
+https://stackoverflow.com/questions/34349967,Tensorflow - The source code of the tensorflow_inception_graph.pb
+https://stackoverflow.com/questions/44226932,Difference between tf.nn_conv2d and tf.nn.depthwise_conv2d
+https://stackoverflow.com/questions/46374924,binary threshold activation function in tensorflow
+https://stackoverflow.com/questions/35235606,Combining conditionals and control dependencies
+https://stackoverflow.com/questions/41233462,Tensorflow while loop : dealing with lists
+https://stackoverflow.com/questions/38220133,reshaping 3D matrix into 2D matrix using tensorflow
+https://stackoverflow.com/questions/40692807,Approach to Sentence similarity algorithm
+https://stackoverflow.com/questions/39562938,Error when running TensorFlow image retraining tutorial
+https://stackoverflow.com/questions/33747596,Problems implementing an XOR gate with Neural Nets in Tensorflow
+https://stackoverflow.com/questions/40498899,TensorFlow Android Camera Demo
+https://stackoverflow.com/questions/37899849,"Understanding Tensorflow's shape, rank and size"
+https://stackoverflow.com/questions/45206910,TensorFlow exponential moving average
+https://stackoverflow.com/questions/42560245,Use coo_matrix in TensorFlow
+https://stackoverflow.com/questions/33714832,matrix determinant differentiation in tensorflow
+https://stackoverflow.com/questions/37580691,Tensorflow session returns as 'closed'
+https://stackoverflow.com/questions/37504470,Tensorflow crashes when using sess.run()
+https://stackoverflow.com/questions/36468701,AdamOptimizer and GradientDescentOptimizer from tensorflow not able to fit simple data
+https://stackoverflow.com/questions/46829684,Using inception v4 in retrain example
+https://stackoverflow.com/questions/48494853,google colaboratory `ResourceExhaustedError` with GPU
+https://stackoverflow.com/questions/47043606,Tensorflow - saving and restoring from different folders
+https://stackoverflow.com/questions/40330775,Compute efficiently a pairwise ranking loss function in Tensorflow
+https://stackoverflow.com/questions/42437467,When does Tensorflow update weights and biases?
+https://stackoverflow.com/questions/41643044,What is the difference between tf.train.MonitoredTrainingSession and tf.train.Supervisor
+https://stackoverflow.com/questions/45139362,Tensorflow feed_dict issue
+https://stackoverflow.com/questions/38779654,Tensorflow error: Invalid argument: shape must be a vector
+https://stackoverflow.com/questions/34876494,Tensorflow: var.eval() vs. var.initialized_value().eval()
+https://stackoverflow.com/questions/54200850,AttributeError: 'tuple' object has no attribute 'type' upon importing tensorflow
+https://stackoverflow.com/questions/51924370,TensorFlow session fails with error not compiled to use AVX2
+https://stackoverflow.com/questions/47343228,Interleaving tf.data.Datasets
+https://stackoverflow.com/questions/50427475,checking TensorFlow version in Python - tf.__version__ vs tf.VERSION?
+https://stackoverflow.com/questions/34273951,Tensorflow: Multi-GPU single input queue
+https://stackoverflow.com/questions/48428115,You must feed a value for placeholder tensor 'Placeholder_1' with dtype float
+https://stackoverflow.com/questions/42683097,Launching Tensorboard - NameError: name 'tensorboard' is not defined
+https://stackoverflow.com/questions/42783603,tf.conv2d gaussian kernel convolution gives strange border effect in Tensorflow
+https://stackoverflow.com/questions/41641598,Tensorflow reduce dimensions of rank 3 tensor
+https://stackoverflow.com/questions/45130184,"ctc_loss error No valid path found.,tensorflow;"
+https://stackoverflow.com/questions/42707081,Error with tensorflow 1.0 mnist code
+https://stackoverflow.com/questions/45137835,What the impact of different dimension of image resizer when using default config of object detection api
+https://stackoverflow.com/questions/37992326,Change initializer of Variable in Tensorflow
+https://stackoverflow.com/questions/37675216,What is the default learning rate for TensorFlowDNNRegressor with SGD or Adagrad?
+https://stackoverflow.com/questions/43489416,Tensorflow Java API - sophisticated example
+https://stackoverflow.com/questions/37903444,Advantages to implement LDA(latent dirichlet allocation) with tensorflow
+https://stackoverflow.com/questions/42064941,TensorFlow float16 support is broken
+https://stackoverflow.com/questions/43030393,Is TensorFlow only limited to neural networks?
+https://stackoverflow.com/questions/35247406,Converting trained Tensorflow model to protobuf
+https://stackoverflow.com/questions/36484408,Implementing a Siamese Network in Tensor Flow
